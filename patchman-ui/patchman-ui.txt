@@ -135,14 +135,14 @@ services-patch/patchman-ui/path-key3.1.1
 services-patch/patchman-ui/path-parse1.0.6
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/patternfly4.23.3
-services-patch/patchman-ui/patternfly/react-core4.18.5
+services-patch/patchman-ui/patternfly/react-core4.32.1
 services-patch/patchman-ui/patternfly/react-core4.32.7
 services-patch/patchman-ui/patternfly/react-icons4.3.5
+services-patch/patchman-ui/patternfly/react-icons4.5.0
 services-patch/patchman-ui/patternfly/react-icons4.5.1
-services-patch/patchman-ui/patternfly/react-styles4.3.4
 services-patch/patchman-ui/patternfly/react-styles4.5.0
 services-patch/patchman-ui/patternfly/react-table4.13.2
-services-patch/patchman-ui/patternfly/react-tokens4.4.4
+services-patch/patchman-ui/patternfly/react-tokens4.6.0
 services-patch/patchman-ui/patternfly/react-tokens4.7.0
 services-patch/patchman-ui/popper.js1.16.1
 services-patch/patchman-ui/postcss7.0.30

@@ -152,7 +152,7 @@ services-patch/patchman-ui/prop-types15.7.2
 services-patch/patchman-ui/pump3.0.0
 services-patch/patchman-ui/query-string6.12.1
 services-patch/patchman-ui/rc1.2.8
-services-patch/patchman-ui/react-content-loader5.0.4
+services-patch/patchman-ui/react-content-loader5.1.0
 services-patch/patchman-ui/react-dom16.13.1
 services-patch/patchman-ui/react-dropzone9.0.0
 services-patch/patchman-ui/react-is16.13.1
@@ -164,7 +164,7 @@ services-patch/patchman-ui/read-pkg5.2.0
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.0.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.0.4
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.0.2
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.1.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.1.0
 services-patch/patchman-ui/redux-promise-middleware5.1.1
 services-patch/patchman-ui/redux4.0.5
@@ -181,12 +181,12 @@ services-patch/patchman-ui/semantic-release/error2.2.0
 services-patch/patchman-ui/semantic-release/npm7.0.5
 services-patch/patchman-ui/semver5.7.1
 services-patch/patchman-ui/semver7.3.2
-services-patch/patchman-ui/sentry/browser5.16.1
-services-patch/patchman-ui/sentry/core5.16.1
-services-patch/patchman-ui/sentry/hub5.16.1
-services-patch/patchman-ui/sentry/minimal5.16.1
-services-patch/patchman-ui/sentry/types5.16.1
-services-patch/patchman-ui/sentry/utils5.16.1
+services-patch/patchman-ui/sentry/browser5.20.1
+services-patch/patchman-ui/sentry/core5.20.1
+services-patch/patchman-ui/sentry/hub5.20.1
+services-patch/patchman-ui/sentry/minimal5.20.1
+services-patch/patchman-ui/sentry/types5.20.1
+services-patch/patchman-ui/sentry/utils5.20.1
 services-patch/patchman-ui/shebang-command2.0.0
 services-patch/patchman-ui/shebang-regex3.0.0
 services-patch/patchman-ui/signal-exit3.0.3

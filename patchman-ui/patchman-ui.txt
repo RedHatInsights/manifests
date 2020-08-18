@@ -105,7 +105,6 @@ services-patch/patchman-ui/jsonfile6.0.1
 services-patch/patchman-ui/lines-and-columns1.1.6
 services-patch/patchman-ui/loader-utils1.4.0
 services-patch/patchman-ui/lodash4.17.15
-services-patch/patchman-ui/lodash4.17.19
 services-patch/patchman-ui/loose-envify1.4.0
 services-patch/patchman-ui/lower-case2.0.1
 services-patch/patchman-ui/merge-stream2.0.0
@@ -136,14 +135,11 @@ services-patch/patchman-ui/path-parse1.0.6
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/patternfly4.23.3
 services-patch/patchman-ui/patternfly/react-core4.32.1
-services-patch/patchman-ui/patternfly/react-core4.32.7
 services-patch/patchman-ui/patternfly/react-icons4.3.5
 services-patch/patchman-ui/patternfly/react-icons4.5.0
-services-patch/patchman-ui/patternfly/react-icons4.5.1
 services-patch/patchman-ui/patternfly/react-styles4.5.0
-services-patch/patchman-ui/patternfly/react-table4.13.2
+services-patch/patchman-ui/patternfly/react-table4.12.1
 services-patch/patchman-ui/patternfly/react-tokens4.6.0
-services-patch/patchman-ui/patternfly/react-tokens4.7.0
 services-patch/patchman-ui/popper.js1.16.1
 services-patch/patchman-ui/postcss7.0.30
 services-patch/patchman-ui/pretty-error2.1.1

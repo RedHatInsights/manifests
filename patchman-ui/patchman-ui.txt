@@ -162,7 +162,7 @@ services-patch/patchman-ui/read-pkg5.2.0
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.0.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.1.4
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.1.2
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.1.5
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.3.14
 services-patch/patchman-ui/redux-promise-middleware5.1.1
 services-patch/patchman-ui/redux4.0.5
@@ -179,12 +179,12 @@ services-patch/patchman-ui/semantic-release/error2.2.0
 services-patch/patchman-ui/semantic-release/npm7.0.5
 services-patch/patchman-ui/semver5.7.1
 services-patch/patchman-ui/semver7.3.2
-services-patch/patchman-ui/sentry/browser5.20.1
-services-patch/patchman-ui/sentry/core5.20.1
-services-patch/patchman-ui/sentry/hub5.20.1
-services-patch/patchman-ui/sentry/minimal5.20.1
-services-patch/patchman-ui/sentry/types5.20.1
-services-patch/patchman-ui/sentry/utils5.20.1
+services-patch/patchman-ui/sentry/browser5.21.4
+services-patch/patchman-ui/sentry/core5.21.4
+services-patch/patchman-ui/sentry/hub5.21.4
+services-patch/patchman-ui/sentry/minimal5.21.4
+services-patch/patchman-ui/sentry/types5.21.4
+services-patch/patchman-ui/sentry/utils5.21.4
 services-patch/patchman-ui/shebang-command2.0.0
 services-patch/patchman-ui/shebang-regex3.0.0
 services-patch/patchman-ui/signal-exit3.0.3
@@ -223,7 +223,7 @@ services-patch/patchman-ui/type-fest0.12.0
 services-patch/patchman-ui/type-fest0.6.0
 services-patch/patchman-ui/types/anymatch1.3.1
 services-patch/patchman-ui/types/classnames2.2.10
-services-patch/patchman-ui/types/debounce-promise3.1.2
+services-patch/patchman-ui/types/debounce-promise3.1.3
 services-patch/patchman-ui/types/html-minifier-terser5.1.0
 services-patch/patchman-ui/types/node14.0.5
 services-patch/patchman-ui/types/normalize-package-data2.4.0

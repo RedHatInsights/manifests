@@ -160,8 +160,9 @@ services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react16.13.1
 services-patch/patchman-ui/read-pkg5.2.0
 services-patch/patchman-ui/readable-stream3.6.0
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.0.3
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.1.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.1.4
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.1.0-beta
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.1.5
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.3.14
 services-patch/patchman-ui/redux-promise-middleware5.1.1

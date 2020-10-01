@@ -21,6 +21,7 @@ services-ansible-automation-hub:ui/npmjs-csstype-2.6.10.tgz
 services-ansible-automation-hub:ui/npmjs-debounce-promise-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-debug-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-deep-diff-0.3.8.tgz
+services-ansible-automation-hub:ui/npmjs-detect-browser-5.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-dom-serializer-0.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-domelementtype-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-domhandler-3.0.0.tgz

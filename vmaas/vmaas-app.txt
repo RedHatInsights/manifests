@@ -99,7 +99,7 @@ mgmt_services:latest:vmaas-app/python3-gunicorn-19.9.0.pipfile
 mgmt_services:latest:vmaas-app/python3-idna-ssl-1.1.0.pipfile
 mgmt_services:latest:vmaas-app/python3-idna-2.10.pipfile
 mgmt_services:latest:vmaas-app/python3-importlib-metadata-2.0.0.pipfile
-mgmt_services:latest:vmaas-app/python3-importlib-resources-3.0.0.pipfile
+mgmt_services:latest:vmaas-app/python3-importlib-resources-3.3.0.pipfile
 mgmt_services:latest:vmaas-app/python3-inflection-0.5.1.pipfile
 mgmt_services:latest:vmaas-app/python3-iso8601-0.1.13.pipfile
 mgmt_services:latest:vmaas-app/python3-itsdangerous-1.1.0.pipfile
@@ -126,7 +126,7 @@ mgmt_services:latest:vmaas-app/python3-tornado-6.0.4.pipfile
 mgmt_services:latest:vmaas-app/python3-typing-extensions-3.7.4.3.pipfile
 mgmt_services:latest:vmaas-app/python3-urllib3-1.25.10.pipfile
 mgmt_services:latest:vmaas-app/python3-virtualenv-clone-0.5.4.pipfile
-mgmt_services:latest:vmaas-app/python3-virtualenv-20.0.35.pipfile
+mgmt_services:latest:vmaas-app/python3-virtualenv-20.1.0.pipfile
 mgmt_services:latest:vmaas-app/python3-watchtower-0.8.0.pipfile
 mgmt_services:latest:vmaas-app/python3-yarl-1.5.1.pipfile
-mgmt_services:latest:vmaas-app/python3-zipp-3.3.1.pipfile
+mgmt_services:latest:vmaas-app/python3-zipp-3.4.0.pipfile

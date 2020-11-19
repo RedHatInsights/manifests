@@ -110,7 +110,7 @@ mgmt_services:latest:vmaas-app/python3-jsonschema-3.2.0.pipfile
 mgmt_services:latest:vmaas-app/python3-multidict-5.0.0.pipfile
 mgmt_services:latest:vmaas-app/python3-natsort-7.0.1.pipfile
 mgmt_services:latest:vmaas-app/python3-openapi-spec-validator-0.2.9.pipfile
-mgmt_services:latest:vmaas-app/python3-pipenv-2020.11.4.pipfile
+mgmt_services:latest:vmaas-app/python3-pipenv-2020.11.15.pipfile
 mgmt_services:latest:vmaas-app/python3-prometheus-client-0.8.0.pipfile
 mgmt_services:latest:vmaas-app/python3-psycopg2-binary-2.8.6.pipfile
 mgmt_services:latest:vmaas-app/python3-pyOpenSSL-19.1.0.pipfile

@@ -138,6 +138,7 @@ services-patch/patchman-ui/path-parse1.0.6
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/patternfly4.35.2
 services-patch/patchman-ui/patternfly/react-core4.47.0
+services-patch/patchman-ui/patternfly/react-icons4.7.18
 services-patch/patchman-ui/patternfly/react-icons4.7.4
 services-patch/patchman-ui/patternfly/react-styles4.7.3
 services-patch/patchman-ui/patternfly/react-table4.16.7

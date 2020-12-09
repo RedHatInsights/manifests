@@ -39,7 +39,7 @@ mgmt_services/patchman-engine/github.com/PuerkitoBio/purell:v1.1.0
 mgmt_services/patchman-engine/github.com/PuerkitoBio/urlesc:v0.0.0-20170810143723-de5bf2ad4578
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/inventory:v0.7.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/rbac:v0.7.0
-mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.8.0
+mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.7.0
 mgmt_services/patchman-engine/github.com/Shopify/sarama:v1.19.0
 mgmt_services/patchman-engine/github.com/Shopify/toxiproxy:v2.1.4+incompatible
 mgmt_services/patchman-engine/github.com/alecthomas/template:v0.0.0-20160405071501-a0175ee3bccc
@@ -283,7 +283,6 @@ mgmt_services/patchman-engine/github.com/prometheus/procfs:v0.0.11
 mgmt_services/patchman-engine/github.com/prometheus/procfs:v0.0.2
 mgmt_services/patchman-engine/github.com/rcrowley/go-metrics:v0.0.0-20181016184325-3113b8401b8a
 mgmt_services/patchman-engine/github.com/redhatinsights/platform-go-middlewares:v0.7.1-0.20200306140908-92eb73ca70be
-mgmt_services/patchman-engine/github.com/redhatinsights/platform-go-middlewares:v0.7.1-0.20201008161041-14dd768deef9
 mgmt_services/patchman-engine/github.com/remyoudompheng/bigfft:v0.0.0-20190728182440-6a916e37a237
 mgmt_services/patchman-engine/github.com/rogpeppe/go-internal:v1.3.0
 mgmt_services/patchman-engine/github.com/rs/xid:v1.2.1

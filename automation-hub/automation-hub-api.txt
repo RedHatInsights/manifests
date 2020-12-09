@@ -59,7 +59,7 @@ services-ansible-automation-hub:api/openpyxl:3.0.5.pypi
 services-ansible-automation-hub:api/packaging:20.4.pypi
 services-ansible-automation-hub:api/prometheus-client:0.8.0.pypi
 services-ansible-automation-hub:api/psycopg2:2.8.6.pypi
-services-ansible-automation-hub:api/pulp-ansible:0.5.3.pypi
+services-ansible-automation-hub:api/pulp-ansible:0.5.4.pypi
 services-ansible-automation-hub:api/pulpcore:3.7.1.pypi
 services-ansible-automation-hub:api/pycares:3.1.1.pypi
 services-ansible-automation-hub:api/pycodestyle:2.6.0.pypi

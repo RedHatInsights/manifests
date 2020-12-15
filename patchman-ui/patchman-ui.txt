@@ -42,6 +42,7 @@ services-patch/patchman-ui/cross-spawn7.0.2
 services-patch/patchman-ui/crypto-random-string2.0.0
 services-patch/patchman-ui/css-select1.2.0
 services-patch/patchman-ui/css-what2.1.3
+services-patch/patchman-ui/csstype3.0.5
 services-patch/patchman-ui/debounce-promise3.1.2
 services-patch/patchman-ui/debug3.1.0
 services-patch/patchman-ui/debug4.1.1
@@ -68,9 +69,16 @@ services-patch/patchman-ui/es-abstract1.17.5
 services-patch/patchman-ui/es-to-primitive1.2.1
 services-patch/patchman-ui/escape-string-regexp1.0.5
 services-patch/patchman-ui/execa4.0.1
+services-patch/patchman-ui/fast-memoize2.5.2
 services-patch/patchman-ui/file-selector0.1.12
 services-patch/patchman-ui/focus-trap4.0.2
 services-patch/patchman-ui/follow-redirects1.5.10
+services-patch/patchman-ui/formatjs/ecma402-abstract1.5.0
+services-patch/patchman-ui/formatjs/intl-datetimeformat3.1.0
+services-patch/patchman-ui/formatjs/intl-displaynames4.0.1
+services-patch/patchman-ui/formatjs/intl-listformat5.0.1
+services-patch/patchman-ui/formatjs/intl-relativetimeformat8.0.0
+services-patch/patchman-ui/formatjs/intl1.4.10
 services-patch/patchman-ui/fs-extra9.0.0
 services-patch/patchman-ui/function-bind1.1.1
 services-patch/patchman-ui/get-stream5.1.0
@@ -91,6 +99,8 @@ services-patch/patchman-ui/human-signals1.1.1
 services-patch/patchman-ui/indent-string4.0.0
 services-patch/patchman-ui/inherits2.0.4
 services-patch/patchman-ui/ini1.3.5
+services-patch/patchman-ui/intl-messageformat-parser6.0.18
+services-patch/patchman-ui/intl-messageformat9.3.20
 services-patch/patchman-ui/is-arrayish0.2.1
 services-patch/patchman-ui/is-callable1.1.5
 services-patch/patchman-ui/is-date-object1.0.2
@@ -157,6 +167,7 @@ services-patch/patchman-ui/rc1.2.8
 services-patch/patchman-ui/react-content-loader5.1.0
 services-patch/patchman-ui/react-dom16.13.1
 services-patch/patchman-ui/react-dropzone9.0.0
+services-patch/patchman-ui/react-intl5.10.6
 services-patch/patchman-ui/react-is16.13.1
 services-patch/patchman-ui/react-redux7.2.0
 services-patch/patchman-ui/react-router-dom5.2.0
@@ -166,6 +177,7 @@ services-patch/patchman-ui/read-pkg5.2.0
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.2.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.0
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations2.2.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.2.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.5.0
 services-patch/patchman-ui/redux-promise-middleware5.1.1
@@ -191,6 +203,7 @@ services-patch/patchman-ui/sentry/hub5.21.4
 services-patch/patchman-ui/sentry/minimal5.21.4
 services-patch/patchman-ui/sentry/types5.21.4
 services-patch/patchman-ui/sentry/utils5.21.4
+services-patch/patchman-ui/shallow-equal1.2.1
 services-patch/patchman-ui/shebang-command2.0.0
 services-patch/patchman-ui/shebang-regex3.0.0
 services-patch/patchman-ui/signal-exit3.0.3
@@ -225,13 +238,17 @@ services-patch/patchman-ui/tippy.js5.1.2
 services-patch/patchman-ui/to-fast-properties2.0.0
 services-patch/patchman-ui/toposort1.0.7
 services-patch/patchman-ui/tslib1.13.0
+services-patch/patchman-ui/tslib2.0.3
 services-patch/patchman-ui/type-fest0.12.0
 services-patch/patchman-ui/type-fest0.6.0
 services-patch/patchman-ui/types/anymatch1.3.1
 services-patch/patchman-ui/types/debounce-promise3.1.3
+services-patch/patchman-ui/types/hoist-non-react-statics3.3.1
 services-patch/patchman-ui/types/html-minifier-terser5.1.0
 services-patch/patchman-ui/types/node14.0.5
 services-patch/patchman-ui/types/normalize-package-data2.4.0
+services-patch/patchman-ui/types/prop-types15.7.3
+services-patch/patchman-ui/types/react17.0.0
 services-patch/patchman-ui/types/source-list-map0.1.2
 services-patch/patchman-ui/types/tapable1.0.5
 services-patch/patchman-ui/types/uglify-js3.9.2

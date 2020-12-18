@@ -254,6 +254,7 @@ services-patch/patchman-ui/types/tapable1.0.5
 services-patch/patchman-ui/types/uglify-js3.9.2
 services-patch/patchman-ui/types/webpack-sources0.1.7
 services-patch/patchman-ui/types/webpack4.41.13
+services-patch/patchman-ui/typescript4.1.3
 services-patch/patchman-ui/unique-string2.0.0
 services-patch/patchman-ui/universalify1.0.0
 services-patch/patchman-ui/urijs1.19.2

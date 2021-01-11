@@ -166,7 +166,7 @@ services-patch/patchman-ui/react16.13.1
 services-patch/patchman-ui/read-pkg5.2.0
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.2.3
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.0
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.5
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations2.2.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.2.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.5.0
@@ -242,7 +242,7 @@ services-patch/patchman-ui/types/webpack-sources0.1.7
 services-patch/patchman-ui/types/webpack4.41.13
 services-patch/patchman-ui/unique-string2.0.0
 services-patch/patchman-ui/universalify1.0.0
-services-patch/patchman-ui/urijs1.19.2
+services-patch/patchman-ui/urijs1.19.5
 services-patch/patchman-ui/util-deprecate1.0.2
 services-patch/patchman-ui/util.promisify1.0.0
 services-patch/patchman-ui/utila0.4.0

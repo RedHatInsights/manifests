@@ -7,6 +7,7 @@ services-patch/patchman-ui/awesome-debounce-promise2.1.0
 services-patch/patchman-ui/awesome-imperative-promise1.0.1
 services-patch/patchman-ui/awesome-only-resolves-last-promise1.0.3
 services-patch/patchman-ui/axios0.19.2
+services-patch/patchman-ui/axios0.21.1
 services-patch/patchman-ui/babel/code-frame7.8.3
 services-patch/patchman-ui/babel/generator7.9.6
 services-patch/patchman-ui/babel/helper-create-class-features-plugin7.9.6
@@ -72,6 +73,7 @@ services-patch/patchman-ui/execa4.0.1
 services-patch/patchman-ui/file-selector0.1.12
 services-patch/patchman-ui/focus-trap4.0.2
 services-patch/patchman-ui/focus-trap6.2.2
+services-patch/patchman-ui/follow-redirects1.13.1
 services-patch/patchman-ui/follow-redirects1.5.10
 services-patch/patchman-ui/fs-extra9.0.0
 services-patch/patchman-ui/function-bind1.1.1
@@ -156,7 +158,7 @@ services-patch/patchman-ui/prop-types15.7.2
 services-patch/patchman-ui/pump3.0.0
 services-patch/patchman-ui/query-string6.12.1
 services-patch/patchman-ui/rc1.2.8
-services-patch/patchman-ui/react-content-loader5.1.0
+services-patch/patchman-ui/react-content-loader5.1.4
 services-patch/patchman-ui/react-dom16.13.1
 services-patch/patchman-ui/react-dropzone9.0.0
 services-patch/patchman-ui/react-is16.13.1
@@ -169,7 +171,7 @@ services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications2.2.4
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.5
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations2.2.1
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.2.1
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities2.2.9
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.5.6
 services-patch/patchman-ui/redux-promise-middleware5.1.1
 services-patch/patchman-ui/redux4.0.5
@@ -188,12 +190,12 @@ services-patch/patchman-ui/semantic-release/error2.2.0
 services-patch/patchman-ui/semantic-release/npm7.0.5
 services-patch/patchman-ui/semver5.7.1
 services-patch/patchman-ui/semver7.3.2
-services-patch/patchman-ui/sentry/browser5.21.4
-services-patch/patchman-ui/sentry/core5.21.4
-services-patch/patchman-ui/sentry/hub5.21.4
-services-patch/patchman-ui/sentry/minimal5.21.4
-services-patch/patchman-ui/sentry/types5.21.4
-services-patch/patchman-ui/sentry/utils5.21.4
+services-patch/patchman-ui/sentry/browser5.29.2
+services-patch/patchman-ui/sentry/core5.29.2
+services-patch/patchman-ui/sentry/hub5.29.2
+services-patch/patchman-ui/sentry/minimal5.29.2
+services-patch/patchman-ui/sentry/types5.29.2
+services-patch/patchman-ui/sentry/utils5.29.2
 services-patch/patchman-ui/shebang-command2.0.0
 services-patch/patchman-ui/shebang-regex3.0.0
 services-patch/patchman-ui/signal-exit3.0.3

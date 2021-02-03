@@ -1,4 +1,4 @@
-services-ansible-automation-hub:api/Dockerfile-FROM-docker.io/centos:8
+services-ansible-automation-hub:api/Dockerfile-FROM-quay.io/centos/centos:8
 services-ansible-automation-hub:api/aiodns:2.0.0.pypi
 services-ansible-automation-hub:api/aiofiles:0.5.0.pypi
 services-ansible-automation-hub:api/aiohttp:3.6.2.pypi
@@ -40,7 +40,7 @@ services-ansible-automation-hub:api/drf-spectacular:0.9.13.pypi
 services-ansible-automation-hub:api/dynaconf:3.1.1.pypi
 services-ansible-automation-hub:api/et-xmlfile:1.0.1.pypi
 services-ansible-automation-hub:api/flake8:3.8.3.pypi
-services-ansible-automation-hub:api/galaxy-importer:0.2.13.pypi
+services-ansible-automation-hub:api/galaxy-importer:0.2.14.pypi
 services-ansible-automation-hub:api/gunicorn:20.0.4.pypi
 services-ansible-automation-hub:api/idna-ssl:1.1.0.pypi
 services-ansible-automation-hub:api/idna:2.10.pypi

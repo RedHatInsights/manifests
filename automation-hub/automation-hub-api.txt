@@ -30,7 +30,7 @@ services-ansible-automation-hub:api/django-import-export:2.3.0.pypi
 services-ansible-automation-hub:api/django-lifecycle:0.7.7.pypi
 services-ansible-automation-hub:api/django-prometheus:2.1.0.pypi
 services-ansible-automation-hub:api/django-storages[boto3]:1.10.1.pypi
-services-ansible-automation-hub:api/django:2.2.16.pypi
+services-ansible-automation-hub:api/django:2.2.18.pypi
 services-ansible-automation-hub:api/djangorestframework-queryfields:1.0.0.pypi
 services-ansible-automation-hub:api/djangorestframework:3.11.2.pypi
 services-ansible-automation-hub:api/drf-access-policy:0.7.0.pypi

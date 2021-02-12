@@ -6,7 +6,9 @@ services-ansible-automation-hub:api/ansible-base:2.10.5.pypi
 services-ansible-automation-hub:api/ansible-builder:0.5.1.pypi
 services-ansible-automation-hub:api/ansible-lint:4.3.7.pypi
 services-ansible-automation-hub:api/ansible:2.10.6.pypi
+services-ansible-automation-hub:api/async-lru:1.0.2.pypi
 services-ansible-automation-hub:api/async-timeout:3.0.1.pypi
+services-ansible-automation-hub:api/asyncio-throttle:1.0.1.pypi
 services-ansible-automation-hub:api/attrs:20.3.0.pypi
 services-ansible-automation-hub:api/backoff:1.10.0.pypi
 services-ansible-automation-hub:api/bleach-allowlist:1.0.3.pypi
@@ -25,6 +27,7 @@ services-ansible-automation-hub:api/diff-match-patch:20200713.pypi
 services-ansible-automation-hub:api/django-currentuser:0.5.2.pypi
 services-ansible-automation-hub:api/django-filter:2.4.0.pypi
 services-ansible-automation-hub:api/django-guardian:2.3.0.pypi
+services-ansible-automation-hub:api/django-guid:2.2.0.pypi
 services-ansible-automation-hub:api/django-import-export:2.4.0.pypi
 services-ansible-automation-hub:api/django-lifecycle:0.8.1.pypi
 services-ansible-automation-hub:api/django-prometheus:2.1.0.pypi
@@ -34,7 +37,7 @@ services-ansible-automation-hub:api/djangorestframework-queryfields:1.0.0.pypi
 services-ansible-automation-hub:api/djangorestframework:3.12.2.pypi
 services-ansible-automation-hub:api/drf-access-policy:0.8.6.pypi
 services-ansible-automation-hub:api/drf-nested-routers:0.92.1.pypi
-services-ansible-automation-hub:api/drf-spectacular:0.9.14.pypi
+services-ansible-automation-hub:api/drf-spectacular:0.11.0.pypi
 services-ansible-automation-hub:api/dynaconf:3.1.2.pypi
 services-ansible-automation-hub:api/et-xmlfile:1.0.1.pypi
 services-ansible-automation-hub:api/flake8:3.8.4.pypi
@@ -57,8 +60,8 @@ services-ansible-automation-hub:api/openpyxl:3.0.6.pypi
 services-ansible-automation-hub:api/packaging:20.9.pypi
 services-ansible-automation-hub:api/prometheus-client:0.9.0.pypi
 services-ansible-automation-hub:api/psycopg2:2.8.6.pypi
-services-ansible-automation-hub:api/pulp-ansible:0.5.5.pypi
-services-ansible-automation-hub:api/pulpcore:3.8.1.pypi
+services-ansible-automation-hub:api/pulp-ansible:0.7.0.pypi
+services-ansible-automation-hub:api/pulpcore:3.10.0.pypi
 services-ansible-automation-hub:api/pycares:3.1.1.pypi
 services-ansible-automation-hub:api/pycodestyle:2.6.0.pypi
 services-ansible-automation-hub:api/pycparser:2.20.pypi
@@ -75,7 +78,7 @@ services-ansible-automation-hub:api/redis:3.5.3.pypi
 services-ansible-automation-hub:api/requests:2.25.1.pypi
 services-ansible-automation-hub:api/requirements-parser:0.2.0.pypi
 services-ansible-automation-hub:api/rich:9.10.0.pypi
-services-ansible-automation-hub:api/rq:1.5.2.pypi
+services-ansible-automation-hub:api/rq:1.7.0.pypi
 services-ansible-automation-hub:api/ruamel.yaml:0.16.12.pypi
 services-ansible-automation-hub:api/s3transfer:0.3.4.pypi
 services-ansible-automation-hub:api/semantic-version:2.8.5.pypi

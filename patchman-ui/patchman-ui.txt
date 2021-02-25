@@ -106,7 +106,7 @@ services-patch/patchman-ui/react17.0.1
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.0.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.9
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations2.2.1
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.0.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.0.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.5.10
 services-patch/patchman-ui/redux-promise-middleware6.1.2

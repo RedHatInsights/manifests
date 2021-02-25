@@ -105,10 +105,11 @@ services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react17.0.1
 services-patch/patchman-ui/readable-stream3.6.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.0.3
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations2.3.9
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.0.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.0.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.0.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components2.5.10
+services-patch/patchman-ui/redhat-cloud-services/frontend-components3.0.10
 services-patch/patchman-ui/redux-promise-middleware6.1.2
 services-patch/patchman-ui/redux4.0.5
 services-patch/patchman-ui/regenerator-runtime0.13.7
@@ -156,7 +157,7 @@ services-patch/patchman-ui/types/tapable1.0.6
 services-patch/patchman-ui/types/uglify-js3.11.1
 services-patch/patchman-ui/types/webpack-sources2.1.0
 services-patch/patchman-ui/types/webpack4.41.26
-services-patch/patchman-ui/urijs1.19.5
+services-patch/patchman-ui/urijs1.19.6
 services-patch/patchman-ui/util-deprecate1.0.2
 services-patch/patchman-ui/util.promisify1.0.0
 services-patch/patchman-ui/utila0.4.0

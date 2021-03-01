@@ -1,4 +1,4 @@
-services-ansible-automation-hub:api/Dockerfile-FROM-quay.io/centos/centos:8
+services-ansible-automation-hub:api/Dockerfile-FROM-registry.access.redhat.com/ubi8
 services-ansible-automation-hub:api/aiodns:2.0.0.pypi
 services-ansible-automation-hub:api/aiofiles:0.6.0.pypi
 services-ansible-automation-hub:api/aiohttp:3.7.3.pypi

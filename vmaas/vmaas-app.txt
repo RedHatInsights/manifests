@@ -132,7 +132,7 @@ mgmt_services:latest:vmaas-app/python3-tornado-6.1.pipfile
 mgmt_services:latest:vmaas-app/python3-typing-extensions-3.7.4.3.pipfile
 mgmt_services:latest:vmaas-app/python3-urllib3-1.25.11.pipfile
 mgmt_services:latest:vmaas-app/python3-virtualenv-clone-0.5.4.pipfile
-mgmt_services:latest:vmaas-app/python3-virtualenv-20.4.2.pipfile
+mgmt_services:latest:vmaas-app/python3-virtualenv-20.4.3.pipfile
 mgmt_services:latest:vmaas-app/python3-watchtower-1.0.0.pipfile
 mgmt_services:latest:vmaas-app/python3-yarl-1.6.2.pipfile
 mgmt_services:latest:vmaas-app/python3-zipp-3.4.0.pipfile

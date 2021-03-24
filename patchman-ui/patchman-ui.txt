@@ -35,11 +35,15 @@ services-patch/patchman-ui/mini-create-react-context0.4.1
 services-patch/patchman-ui/object-assign4.1.1
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
-services-patch/patchman-ui/patternfly/patternfly4.80.3
+services-patch/patchman-ui/patternfly/patternfly4.87.3
 services-patch/patchman-ui/patternfly/react-core4.90.2
+services-patch/patchman-ui/patternfly/react-core4.97.2
 services-patch/patchman-ui/patternfly/react-icons4.8.4
+services-patch/patchman-ui/patternfly/react-icons4.9.2
 services-patch/patchman-ui/patternfly/react-styles4.7.29
-services-patch/patchman-ui/patternfly/react-table4.20.15
+services-patch/patchman-ui/patternfly/react-styles4.8.2
+services-patch/patchman-ui/patternfly/react-table4.23.2
+services-patch/patchman-ui/patternfly/react-tokens4.10.2
 services-patch/patchman-ui/patternfly/react-tokens4.9.26
 services-patch/patchman-ui/popper.js1.16.1
 services-patch/patchman-ui/postcss7.0.35

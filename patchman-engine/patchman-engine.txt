@@ -54,6 +54,7 @@ mgmt_services/patchman-engine/github.com/PuerkitoBio/urlesc:v0.0.0-2017081014372
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/inventory:v0.11.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/rbac:v0.11.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.11.0
+mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.12.0
 mgmt_services/patchman-engine/github.com/alecthomas/template:v0.0.0-20160405071501-a0175ee3bccc
 mgmt_services/patchman-engine/github.com/alecthomas/template:v0.0.0-20190718012654-fb15b899a751
 mgmt_services/patchman-engine/github.com/alecthomas/units:v0.0.0-20151022065526-2efee857e7cf

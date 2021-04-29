@@ -51,7 +51,7 @@ mgmt_services/patchman-engine/github.com/ClickHouse/clickhouse-go:v1.3.12
 mgmt_services/patchman-engine/github.com/Microsoft/go-winio:v0.4.15-0.20190919025122-fc70bd9a86b5
 mgmt_services/patchman-engine/github.com/PuerkitoBio/purell:v1.1.0
 mgmt_services/patchman-engine/github.com/PuerkitoBio/urlesc:v0.0.0-20170810143723-de5bf2ad4578
-mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/inventory:v0.11.0
+mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/inventory:v0.9.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/rbac:v0.11.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.11.0
 mgmt_services/patchman-engine/github.com/RedHatInsights/patchman-clients/vmaas:v0.12.0
@@ -60,6 +60,7 @@ mgmt_services/patchman-engine/github.com/alecthomas/template:v0.0.0-201604050715
 mgmt_services/patchman-engine/github.com/alecthomas/template:v0.0.0-20190718012654-fb15b899a751
 mgmt_services/patchman-engine/github.com/alecthomas/units:v0.0.0-20151022065526-2efee857e7cf
 mgmt_services/patchman-engine/github.com/alecthomas/units:v0.0.0-20190717042225-c3de453c63f4
+mgmt_services/patchman-engine/github.com/antihax/optional:v1.0.0
 mgmt_services/patchman-engine/github.com/apache/arrow/go/arrow:v0.0.0-20200601151325-b2287a20f230
 mgmt_services/patchman-engine/github.com/aws/aws-sdk-go:v1.17.7
 mgmt_services/patchman-engine/github.com/aws/aws-sdk-go:v1.30.9

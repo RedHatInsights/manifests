@@ -133,7 +133,7 @@ services-vmaas/app:2.15.2/tornado-6.1.pypi
 services-vmaas/app:2.15.2/typing-extensions-3.7.4.3.pypi
 services-vmaas/app:2.15.2/urllib3-1.25.11.pypi
 services-vmaas/app:2.15.2/virtualenv-clone-0.5.4.pypi
-services-vmaas/app:2.15.2/virtualenv-20.4.5.pypi
+services-vmaas/app:2.15.2/virtualenv-20.4.6.pypi
 services-vmaas/app:2.15.2/watchtower-1.0.0.pypi
 services-vmaas/app:2.15.2/yarl-1.6.2.pypi
 services-vmaas/app:2.15.2/zipp-3.4.1.pypi

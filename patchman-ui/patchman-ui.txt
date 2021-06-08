@@ -52,7 +52,7 @@ services-patch/patchman-ui/object-assign4.1.1
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/react-core4.106.2
-services-patch/patchman-ui/patternfly/react-icons4.9.9
+services-patch/patchman-ui/patternfly/react-icons4.10.7
 services-patch/patchman-ui/patternfly/react-styles4.9.4
 services-patch/patchman-ui/patternfly/react-table4.24.1
 services-patch/patchman-ui/patternfly/react-tokens4.10.9

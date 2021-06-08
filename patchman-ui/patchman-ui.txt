@@ -29,9 +29,17 @@ services-patch/patchman-ui/final-form-focus1.1.2
 services-patch/patchman-ui/final-form4.20.2
 services-patch/patchman-ui/focus-trap6.2.2
 services-patch/patchman-ui/follow-redirects1.13.3
+services-patch/patchman-ui/formatjs/ecma402-abstract1.9.3
+services-patch/patchman-ui/formatjs/fast-memoize1.1.1
+services-patch/patchman-ui/formatjs/icu-messageformat-parser2.0.6
+services-patch/patchman-ui/formatjs/icu-skeleton-parser1.2.7
+services-patch/patchman-ui/formatjs/intl-displaynames5.1.5
+services-patch/patchman-ui/formatjs/intl-listformat6.2.5
+services-patch/patchman-ui/formatjs/intl1.12.1
 services-patch/patchman-ui/history4.10.1
 services-patch/patchman-ui/hoist-non-react-statics3.3.2
 services-patch/patchman-ui/htmlparser26.0.1
+services-patch/patchman-ui/intl-messageformat9.6.18
 services-patch/patchman-ui/is-plain-object5.0.0
 services-patch/patchman-ui/isarray0.0.1
 services-patch/patchman-ui/js-tokens4.0.0
@@ -58,6 +66,7 @@ services-patch/patchman-ui/react-dom17.0.2
 services-patch/patchman-ui/react-dropzone9.0.0
 services-patch/patchman-ui/react-final-form-arrays3.1.3
 services-patch/patchman-ui/react-final-form6.5.3
+services-patch/patchman-ui/react-intl5.20.1
 services-patch/patchman-ui/react-is16.13.1
 services-patch/patchman-ui/react-redux7.2.3
 services-patch/patchman-ui/react-router-dom5.2.0
@@ -65,7 +74,7 @@ services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react17.0.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.1.0
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.1.12
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.1.1
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components3.2.3
 services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.96

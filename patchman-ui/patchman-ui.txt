@@ -67,13 +67,13 @@ services-patch/patchman-ui/redhat-cloud-services/frontend-components-notificatio
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.1.12
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.1.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1
-services-patch/patchman-ui/redhat-cloud-services/frontend-components3.1.7
+services-patch/patchman-ui/redhat-cloud-services/frontend-components3.2.3
 services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.96
 services-patch/patchman-ui/redux-promise-middleware6.1.2
 services-patch/patchman-ui/redux4.0.5
 services-patch/patchman-ui/regenerator-runtime0.13.7
 services-patch/patchman-ui/resolve-pathname3.0.0
-services-patch/patchman-ui/sanitize-html2.3.3
+services-patch/patchman-ui/sanitize-html2.4.0
 services-patch/patchman-ui/scalprum/core0.0.11
 services-patch/patchman-ui/scalprum/react-core0.0.16
 services-patch/patchman-ui/scheduler0.20.2

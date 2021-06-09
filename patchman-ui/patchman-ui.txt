@@ -75,11 +75,11 @@ services-patch/patchman-ui/react-router-dom5.2.0
 services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react17.0.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.2.2
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.1.12
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.2.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components3.2.3
-services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.96
+services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.98
 services-patch/patchman-ui/redux-promise-middleware6.1.2
 services-patch/patchman-ui/redux4.0.5
 services-patch/patchman-ui/regenerator-runtime0.13.7

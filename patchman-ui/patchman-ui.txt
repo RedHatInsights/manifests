@@ -72,7 +72,7 @@ services-patch/patchman-ui/react-redux7.2.3
 services-patch/patchman-ui/react-router-dom5.2.0
 services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react17.0.2
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.1.0
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.1.12
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1

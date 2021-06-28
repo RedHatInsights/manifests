@@ -108,7 +108,7 @@ services-vmaas/app:2.22.0/gunicorn-20.0.4.pypi
 services-vmaas/app:2.22.0/idna-ssl-1.1.0.pypi
 services-vmaas/app:2.22.0/idna-2.10.pypi
 services-vmaas/app:2.22.0/importlib-metadata-4.5.0.pypi
-services-vmaas/app:2.22.0/importlib-resources-5.1.4.pypi
+services-vmaas/app:2.22.0/importlib-resources-5.2.0.pypi
 services-vmaas/app:2.22.0/inflection-0.5.1.pypi
 services-vmaas/app:2.22.0/iso8601-0.1.14.pypi
 services-vmaas/app:2.22.0/isodate-0.6.0.pypi

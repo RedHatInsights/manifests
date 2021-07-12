@@ -29,12 +29,10 @@ services-ansible-automation-hub:ui/npmjs-galaxy-doc-builder-1.0.0-alpha4.tgz
 services-ansible-automation-hub:ui/npmjs-hast-2.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-history-4.10.1.tgz
 services-ansible-automation-hub:ui/npmjs-history-4.7.8.tgz
-services-ansible-automation-hub:ui/npmjs-hoist-non-react-statics-2.5.5.tgz
 services-ansible-automation-hub:ui/npmjs-hoist-non-react-statics-3.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-hoist-non-react-statics-3.3.2.tgz
 services-ansible-automation-hub:ui/npmjs-hub-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-inline-style-parser-0.1.1.tgz
-services-ansible-automation-hub:ui/npmjs-invariant-2.2.4.tgz
 services-ansible-automation-hub:ui/npmjs-is-alphabetical-1.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-is-alphanumerical-1.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-is-buffer-2.0.5.tgz
@@ -53,6 +51,7 @@ services-ansible-automation-hub:ui/npmjs-mdast-util-to-hast-10.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-mdast-util-to-string-2.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-mdurl-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-micromark-2.11.4.tgz
+services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-minimal-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.1.tgz
 services-ansible-automation-hub:ui/npmjs-ms-2.1.2.tgz
@@ -81,10 +80,10 @@ services-ansible-automation-hub:ui/npmjs-react-is-17.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-6.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.1.16.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.2.4.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-4.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.1.13.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-4.3.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-4.3.5.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-dom-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-hash-link-2.4.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.10.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.11.0.tgz

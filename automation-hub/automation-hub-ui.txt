@@ -71,7 +71,7 @@ services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.115.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.135.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-16.14.0.tgz
-services-ansible-automation-hub:ui/npmjs-react-dom-16.9.12.tgz
+services-ansible-automation-hub:ui/npmjs-react-dom-16.9.14.tgz
 services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.10.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.11.0.tgz

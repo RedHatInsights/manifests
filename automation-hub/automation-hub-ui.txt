@@ -62,11 +62,11 @@ services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-patternfly-4.96.2.tgz
 services-ansible-automation-hub:ui/npmjs-popper.js-1.16.1.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-15.7.2.tgz
-services-ansible-automation-hub:ui/npmjs-prop-types-15.7.3.tgz
+services-ansible-automation-hub:ui/npmjs-prop-types-15.7.4.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-property-information-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.0.tgz
-services-ansible-automation-hub:ui/npmjs-react-16.14.5.tgz
+services-ansible-automation-hub:ui/npmjs-react-16.14.11.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.115.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.135.0.tgz
@@ -98,7 +98,7 @@ services-ansible-automation-hub:ui/npmjs-remark-parse-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-remark-rehype-8.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-resolve-pathname-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-runtime-7.14.0.tgz
-services-ansible-automation-hub:ui/npmjs-scheduler-0.16.1.tgz
+services-ansible-automation-hub:ui/npmjs-scheduler-0.16.2.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.19.1.tgz
 services-ansible-automation-hub:ui/npmjs-space-separated-tokens-1.1.5.tgz
 services-ansible-automation-hub:ui/npmjs-style-to-object-0.3.0.tgz

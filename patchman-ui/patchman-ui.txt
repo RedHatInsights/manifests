@@ -47,7 +47,7 @@ services-patch/patchman-ui/klona2.0.4
 services-patch/patchman-ui/lodash4.17.21
 services-patch/patchman-ui/loose-envify1.4.0
 services-patch/patchman-ui/mini-create-react-context0.4.1
-services-patch/patchman-ui/nanoid3.1.22
+services-patch/patchman-ui/nanoid3.1.23
 services-patch/patchman-ui/object-assign4.1.1
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
@@ -59,7 +59,7 @@ services-patch/patchman-ui/patternfly/react-table4.24.1
 services-patch/patchman-ui/patternfly/react-tokens4.10.9
 services-patch/patchman-ui/patternfly/react-tokens4.11.8
 services-patch/patchman-ui/popper.js1.16.1
-services-patch/patchman-ui/postcss8.2.9
+services-patch/patchman-ui/postcss8.2.10
 services-patch/patchman-ui/prop-types-extra1.1.1
 services-patch/patchman-ui/prop-types15.7.2
 services-patch/patchman-ui/query-string6.14.1
@@ -111,6 +111,6 @@ services-patch/patchman-ui/types/prop-types15.7.3
 services-patch/patchman-ui/types/react-redux7.1.16
 services-patch/patchman-ui/types/react17.0.3
 services-patch/patchman-ui/types/scheduler0.16.1
-services-patch/patchman-ui/urijs1.19.6
+services-patch/patchman-ui/urijs1.19.7
 services-patch/patchman-ui/value-equal1.0.1
 services-patch/patchman-ui/warning4.0.3

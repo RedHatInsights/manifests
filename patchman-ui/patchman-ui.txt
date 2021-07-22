@@ -15,10 +15,10 @@ services-patch/patchman-ui/data-driven-forms/react-form-renderer2.24.1
 services-patch/patchman-ui/debounce-promise3.1.2
 services-patch/patchman-ui/decode-uri-component0.2.0
 services-patch/patchman-ui/deepmerge4.2.2
-services-patch/patchman-ui/dom-serializer1.3.2
+services-patch/patchman-ui/dom-serializer1.2.0
 services-patch/patchman-ui/domelementtype2.2.0
-services-patch/patchman-ui/domhandler4.2.0
-services-patch/patchman-ui/domutils2.7.0
+services-patch/patchman-ui/domhandler4.1.0
+services-patch/patchman-ui/domutils2.5.1
 services-patch/patchman-ui/downshift5.4.7
 services-patch/patchman-ui/entities2.2.0
 services-patch/patchman-ui/escape-string-regexp4.0.0
@@ -38,7 +38,7 @@ services-patch/patchman-ui/formatjs/intl-listformat6.2.5
 services-patch/patchman-ui/formatjs/intl1.12.1
 services-patch/patchman-ui/history4.10.1
 services-patch/patchman-ui/hoist-non-react-statics3.3.2
-services-patch/patchman-ui/htmlparser26.1.0
+services-patch/patchman-ui/htmlparser26.0.1
 services-patch/patchman-ui/intl-messageformat9.6.18
 services-patch/patchman-ui/is-plain-object5.0.0
 services-patch/patchman-ui/isarray0.0.1
@@ -47,7 +47,7 @@ services-patch/patchman-ui/klona2.0.4
 services-patch/patchman-ui/lodash4.17.21
 services-patch/patchman-ui/loose-envify1.4.0
 services-patch/patchman-ui/mini-create-react-context0.4.1
-services-patch/patchman-ui/nanoid3.1.23
+services-patch/patchman-ui/nanoid3.1.22
 services-patch/patchman-ui/object-assign4.1.1
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
@@ -59,7 +59,7 @@ services-patch/patchman-ui/patternfly/react-table4.24.1
 services-patch/patchman-ui/patternfly/react-tokens4.10.9
 services-patch/patchman-ui/patternfly/react-tokens4.11.8
 services-patch/patchman-ui/popper.js1.16.1
-services-patch/patchman-ui/postcss8.3.5
+services-patch/patchman-ui/postcss8.2.9
 services-patch/patchman-ui/prop-types-extra1.1.1
 services-patch/patchman-ui/prop-types15.7.2
 services-patch/patchman-ui/query-string6.14.1
@@ -78,7 +78,7 @@ services-patch/patchman-ui/redhat-cloud-services/frontend-components-notificatio
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.2.3
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1
-services-patch/patchman-ui/redhat-cloud-services/frontend-components3.2.3
+services-patch/patchman-ui/redhat-cloud-services/frontend-components3.3.5
 services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.98
 services-patch/patchman-ui/redux-promise-middleware6.1.2
 services-patch/patchman-ui/redux4.0.5
@@ -86,7 +86,7 @@ services-patch/patchman-ui/regenerator-runtime0.13.7
 services-patch/patchman-ui/resolve-pathname3.0.0
 services-patch/patchman-ui/sanitize-html2.4.0
 services-patch/patchman-ui/scalprum/core0.0.11
-services-patch/patchman-ui/scalprum/react-core0.0.16
+services-patch/patchman-ui/scalprum/react-core0.1.1
 services-patch/patchman-ui/scheduler0.20.2
 services-patch/patchman-ui/sentry/browser5.30.0
 services-patch/patchman-ui/sentry/core5.30.0
@@ -94,7 +94,7 @@ services-patch/patchman-ui/sentry/hub5.30.0
 services-patch/patchman-ui/sentry/minimal5.30.0
 services-patch/patchman-ui/sentry/types5.30.0
 services-patch/patchman-ui/sentry/utils5.30.0
-services-patch/patchman-ui/source-map-js0.6.2
+services-patch/patchman-ui/source-map0.6.1
 services-patch/patchman-ui/split-on-first1.1.0
 services-patch/patchman-ui/strict-uri-encode2.0.0
 services-patch/patchman-ui/symbol-observable1.2.0

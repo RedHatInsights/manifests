@@ -52,7 +52,7 @@ services-patch/patchman-ui/object-assign4.1.1
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/react-core4.121.1
-services-patch/patchman-ui/patternfly/react-icons4.10.7
+services-patch/patchman-ui/patternfly/react-icons4.11.0
 services-patch/patchman-ui/patternfly/react-styles4.10.7
 services-patch/patchman-ui/patternfly/react-styles4.9.4
 services-patch/patchman-ui/patternfly/react-table4.24.1
@@ -75,11 +75,11 @@ services-patch/patchman-ui/react-router-dom5.2.0
 services-patch/patchman-ui/react-router5.2.0
 services-patch/patchman-ui/react17.0.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-notifications3.2.2
-services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.2.3
+services-patch/patchman-ui/redhat-cloud-services/frontend-components-remediations3.2.5
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-translations3.2.2
 services-patch/patchman-ui/redhat-cloud-services/frontend-components-utilities3.1.1
 services-patch/patchman-ui/redhat-cloud-services/frontend-components3.3.5
-services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.98
+services-patch/patchman-ui/redhat-cloud-services/host-inventory-client1.0.100
 services-patch/patchman-ui/redux-promise-middleware6.1.2
 services-patch/patchman-ui/redux4.0.5
 services-patch/patchman-ui/regenerator-runtime0.13.7

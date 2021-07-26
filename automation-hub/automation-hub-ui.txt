@@ -92,7 +92,7 @@ services-ansible-automation-hub:ui/npmjs-react-tokens-4.11.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.12.0.tgz
 services-ansible-automation-hub:ui/npmjs-redux-4.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-redux-logger-3.0.6.tgz
-services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-5.1.1.tgz
+services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-6.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.13.9.tgz
 services-ansible-automation-hub:ui/npmjs-remark-parse-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-remark-rehype-8.1.0.tgz

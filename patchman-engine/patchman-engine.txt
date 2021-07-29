@@ -106,7 +106,7 @@ mgmt_services/patchman-engine/github.com/gin-contrib/sse:v0.0.0-20190301062529-5
 mgmt_services/patchman-engine/github.com/gin-contrib/sse:v0.1.0
 mgmt_services/patchman-engine/github.com/gin-gonic/gin:v1.3.0
 mgmt_services/patchman-engine/github.com/gin-gonic/gin:v1.4.0
-mgmt_services/patchman-engine/github.com/gin-gonic/gin:v1.7.0
+mgmt_services/patchman-engine/github.com/gin-gonic/gin:v1.7.2
 mgmt_services/patchman-engine/github.com/go-chi/chi:v4.0.2+incompatible
 mgmt_services/patchman-engine/github.com/go-gl/glfw/v3.3/glfw:v0.0.0-20191125211704-12ad95a8df72
 mgmt_services/patchman-engine/github.com/go-gl/glfw/v3.3/glfw:v0.0.0-20200222043503-6f7a984d4dc4
@@ -124,6 +124,7 @@ mgmt_services/patchman-engine/github.com/go-playground/assert/v2:v2.0.1
 mgmt_services/patchman-engine/github.com/go-playground/locales:v0.13.0
 mgmt_services/patchman-engine/github.com/go-playground/universal-translator:v0.17.0
 mgmt_services/patchman-engine/github.com/go-playground/validator/v10:v10.4.1
+mgmt_services/patchman-engine/github.com/go-playground/validator/v10:v10.8.0
 mgmt_services/patchman-engine/github.com/go-sql-driver/mysql:v1.4.0
 mgmt_services/patchman-engine/github.com/go-sql-driver/mysql:v1.5.0
 mgmt_services/patchman-engine/github.com/go-stack/stack:v1.8.0
@@ -259,6 +260,7 @@ mgmt_services/patchman-engine/github.com/jmespath/go-jmespath:v0.4.0
 mgmt_services/patchman-engine/github.com/jmoiron/sqlx:v1.2.0
 mgmt_services/patchman-engine/github.com/joho/godotenv:v1.3.0
 mgmt_services/patchman-engine/github.com/json-iterator/go:v1.1.10
+mgmt_services/patchman-engine/github.com/json-iterator/go:v1.1.11
 mgmt_services/patchman-engine/github.com/json-iterator/go:v1.1.5
 mgmt_services/patchman-engine/github.com/json-iterator/go:v1.1.6
 mgmt_services/patchman-engine/github.com/json-iterator/go:v1.1.9
@@ -283,6 +285,7 @@ mgmt_services/patchman-engine/github.com/kr/pty:v1.1.8
 mgmt_services/patchman-engine/github.com/kr/text:v0.1.0
 mgmt_services/patchman-engine/github.com/ktrysmt/go-bitbucket:v0.6.4
 mgmt_services/patchman-engine/github.com/leodido/go-urn:v1.2.0
+mgmt_services/patchman-engine/github.com/leodido/go-urn:v1.2.1
 mgmt_services/patchman-engine/github.com/lestrrat-go/backoff:v1.0.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.0.0
 mgmt_services/patchman-engine/github.com/lib/pq:v1.1.0
@@ -297,6 +300,7 @@ mgmt_services/patchman-engine/github.com/mattn/go-colorable:v0.1.1
 mgmt_services/patchman-engine/github.com/mattn/go-colorable:v0.1.2
 mgmt_services/patchman-engine/github.com/mattn/go-colorable:v0.1.6
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.12
+mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.13
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.3
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.4
 mgmt_services/patchman-engine/github.com/mattn/go-isatty:v0.0.5
@@ -378,9 +382,11 @@ mgmt_services/patchman-engine/github.com/tidwall/pretty:v0.0.0-20180105212114-65
 mgmt_services/patchman-engine/github.com/ugorji/go/codec:v0.0.0-20181022190402-e5e69e061d4f
 mgmt_services/patchman-engine/github.com/ugorji/go/codec:v1.1.5-pre
 mgmt_services/patchman-engine/github.com/ugorji/go/codec:v1.1.7
+mgmt_services/patchman-engine/github.com/ugorji/go/codec:v1.2.6
 mgmt_services/patchman-engine/github.com/ugorji/go:v1.1.4
 mgmt_services/patchman-engine/github.com/ugorji/go:v1.1.5-pre
 mgmt_services/patchman-engine/github.com/ugorji/go:v1.1.7
+mgmt_services/patchman-engine/github.com/ugorji/go:v1.2.6
 mgmt_services/patchman-engine/github.com/urfave/cli:v1.20.0
 mgmt_services/patchman-engine/github.com/xanzy/go-gitlab:v0.15.0
 mgmt_services/patchman-engine/github.com/xdg/scram:v0.0.0-20180814205039-7eeb5667e42c
@@ -419,6 +425,7 @@ mgmt_services/patchman-engine/golang.org/x/crypto:v0.0.0-20200323165209-0ec3e997
 mgmt_services/patchman-engine/golang.org/x/crypto:v0.0.0-20200510223506-06a226fb4e37
 mgmt_services/patchman-engine/golang.org/x/crypto:v0.0.0-20200622213623-75b288015ac9
 mgmt_services/patchman-engine/golang.org/x/crypto:v0.0.0-20200709230013-948cd5f35899
+mgmt_services/patchman-engine/golang.org/x/crypto:v0.0.0-20210711020723-a769d52b0f97
 mgmt_services/patchman-engine/golang.org/x/exp:v0.0.0-20190121172915-509febef88a4
 mgmt_services/patchman-engine/golang.org/x/exp:v0.0.0-20190306152737-a1d7652674e8
 mgmt_services/patchman-engine/golang.org/x/exp:v0.0.0-20190510132918-efd6b22b2522
@@ -489,6 +496,7 @@ mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20200822124328-c8904581420
 mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20200904194848-62affa334b73
 mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20201029221708-28c70e62bb1d
 mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20201110031124-69a78807bb2b
+mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20210226172049-e18ecbb05110
 mgmt_services/patchman-engine/golang.org/x/net:v0.0.0-20210414194228-064579744ee0
 mgmt_services/patchman-engine/golang.org/x/oauth2:v0.0.0-20180227000427-d7d64896b5ff
 mgmt_services/patchman-engine/golang.org/x/oauth2:v0.0.0-20180821212333-d2e6202438be
@@ -553,6 +561,8 @@ mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20200930185726-fdedc70b468
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20201029080932-201ba4db2418
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20201119102817-f84b799fce68
 mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20210330210617-4fbd30eecc44
+mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20210615035016-665e8c7367d1
+mgmt_services/patchman-engine/golang.org/x/sys:v0.0.0-20210630005230-0f9fa26af87c
 mgmt_services/patchman-engine/golang.org/x/term:v0.0.0-20201126162022-7de9c90e9dd1
 mgmt_services/patchman-engine/golang.org/x/text:v0.0.0-20170915032832-14c0d48ead0c
 mgmt_services/patchman-engine/golang.org/x/text:v0.3.0
@@ -705,6 +715,7 @@ mgmt_services/patchman-engine/google.golang.org/protobuf:v1.24.0
 mgmt_services/patchman-engine/google.golang.org/protobuf:v1.25.0
 mgmt_services/patchman-engine/google.golang.org/protobuf:v1.26.0
 mgmt_services/patchman-engine/google.golang.org/protobuf:v1.26.0-rc.1
+mgmt_services/patchman-engine/google.golang.org/protobuf:v1.27.1
 mgmt_services/patchman-engine/gopkg.in/alecthomas/kingpin.v2:v2.2.6
 mgmt_services/patchman-engine/gopkg.in/check.v1:v0.0.0-20161208181325-20d25e280405
 mgmt_services/patchman-engine/gopkg.in/check.v1:v1.0.0-20180628173108-788fd7840127
@@ -723,6 +734,7 @@ mgmt_services/patchman-engine/gopkg.in/yaml.v2:v2.2.4
 mgmt_services/patchman-engine/gopkg.in/yaml.v2:v2.2.5
 mgmt_services/patchman-engine/gopkg.in/yaml.v2:v2.2.7
 mgmt_services/patchman-engine/gopkg.in/yaml.v2:v2.2.8
+mgmt_services/patchman-engine/gopkg.in/yaml.v2:v2.4.0
 mgmt_services/patchman-engine/gopkg.in/yaml.v3:v3.0.0-20200313102051-9f266ea9e77c
 mgmt_services/patchman-engine/gorm.io/driver/postgres:v1.0.5
 mgmt_services/patchman-engine/gorm.io/gorm:v1.20.12

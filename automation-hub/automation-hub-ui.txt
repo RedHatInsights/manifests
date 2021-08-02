@@ -40,7 +40,7 @@ services-ansible-automation-hub:ui/npmjs-is-decimal-1.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-is-hexadecimal-1.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-is-plain-obj-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-isarray-0.0.1.tgz
-services-ansible-automation-hub:ui/npmjs-js-cookie-2.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-js-cookie-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-js-tokens-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-lodash-4.17.21.tgz
 services-ansible-automation-hub:ui/npmjs-loose-envify-1.4.0.tgz

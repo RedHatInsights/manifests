@@ -1,10 +1,14 @@
+services-patch/patchman-ui/ansi-styles3.2.1
 services-patch/patchman-ui/attr-accept1.1.3
 services-patch/patchman-ui/awesome-debounce-promise2.1.0
 services-patch/patchman-ui/awesome-imperative-promise1.0.1
 services-patch/patchman-ui/awesome-only-resolves-last-promise1.0.3
 services-patch/patchman-ui/axios0.21.1
 services-patch/patchman-ui/babel/runtime7.14.8
+services-patch/patchman-ui/chalk2.4.2
 services-patch/patchman-ui/classnames2.3.1
+services-patch/patchman-ui/color-convert1.9.3
+services-patch/patchman-ui/color-name1.1.3
 services-patch/patchman-ui/colorette1.2.2
 services-patch/patchman-ui/commander8.0.0
 services-patch/patchman-ui/compute-scroll-into-view1.0.17
@@ -21,6 +25,7 @@ services-patch/patchman-ui/domhandler4.2.0
 services-patch/patchman-ui/domutils2.7.0
 services-patch/patchman-ui/downshift5.4.7
 services-patch/patchman-ui/entities2.2.0
+services-patch/patchman-ui/escape-string-regexp1.0.5
 services-patch/patchman-ui/escape-string-regexp4.0.0
 services-patch/patchman-ui/file-selector0.1.19
 services-patch/patchman-ui/filter-obj1.1.0
@@ -37,6 +42,7 @@ services-patch/patchman-ui/formatjs/intl-displaynames5.2.0
 services-patch/patchman-ui/formatjs/intl-listformat6.3.0
 services-patch/patchman-ui/formatjs/intl-localematcher0.2.18
 services-patch/patchman-ui/formatjs/intl1.13.4
+services-patch/patchman-ui/has-flag3.0.0
 services-patch/patchman-ui/history4.10.1
 services-patch/patchman-ui/hoist-non-react-statics3.3.2
 services-patch/patchman-ui/htmlparser26.1.0
@@ -51,6 +57,7 @@ services-patch/patchman-ui/mini-create-react-context0.4.1
 services-patch/patchman-ui/mkdirp1.0.4
 services-patch/patchman-ui/nanoid3.1.23
 services-patch/patchman-ui/object-assign4.1.1
+services-patch/patchman-ui/package-lock-only0.0.4
 services-patch/patchman-ui/parse-srcset1.0.2
 services-patch/patchman-ui/path-to-regexp1.8.0
 services-patch/patchman-ui/patternfly/react-core4.135.0
@@ -97,6 +104,7 @@ services-patch/patchman-ui/sentry/utils5.30.0
 services-patch/patchman-ui/source-map-js0.6.2
 services-patch/patchman-ui/split-on-first1.1.0
 services-patch/patchman-ui/strict-uri-encode2.0.0
+services-patch/patchman-ui/supports-color5.5.0
 services-patch/patchman-ui/tabbable5.2.0
 services-patch/patchman-ui/tiny-invariant1.1.0
 services-patch/patchman-ui/tiny-warning1.0.3

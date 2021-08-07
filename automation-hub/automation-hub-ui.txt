@@ -66,7 +66,7 @@ services-ansible-automation-hub:ui/npmjs-prop-types-15.7.4.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-property-information-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.0.tgz
-services-ansible-automation-hub:ui/npmjs-react-16.14.11.tgz
+services-ansible-automation-hub:ui/npmjs-react-16.14.12.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.115.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.135.0.tgz

@@ -73,13 +73,11 @@ services-ansible-automation-hub:ui/npmjs-react-16.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.14.tgz
 services-ansible-automation-hub:ui/npmjs-react-3.10.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.3.tgz
-services-ansible-automation-hub:ui/npmjs-react-core-4.147.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.152.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-16.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-16.9.14.tgz
 services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.11.14.tgz
-services-ansible-automation-hub:ui/npmjs-react-icons-4.11.8.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-16.13.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-17.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-6.0.3.tgz
@@ -91,10 +89,8 @@ services-ansible-automation-hub:ui/npmjs-react-router-dom-5.1.8.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-5.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-hash-link-2.4.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.11.13.tgz
-services-ansible-automation-hub:ui/npmjs-react-styles-4.11.8.tgz
 services-ansible-automation-hub:ui/npmjs-react-table-4.29.58.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.12.15.tgz
-services-ansible-automation-hub:ui/npmjs-react-tokens-4.12.9.tgz
 services-ansible-automation-hub:ui/npmjs-redux-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-redux-logger-3.0.6.tgz
 services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-6.1.2.tgz

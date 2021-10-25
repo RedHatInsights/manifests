@@ -12,7 +12,7 @@ services-ansible-automation-hub:ui/npmjs-character-reference-invalid-1.1.4.tgz
 services-ansible-automation-hub:ui/npmjs-classnames-2.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-comma-separated-tokens-1.0.8.tgz
 services-ansible-automation-hub:ui/npmjs-commander-8.1.0.tgz
-services-ansible-automation-hub:ui/npmjs-core-3.11.1.tgz
+services-ansible-automation-hub:ui/npmjs-core-3.12.1.tgz
 services-ansible-automation-hub:ui/npmjs-core-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-js-2.6.12.tgz
 services-ansible-automation-hub:ui/npmjs-csstype-3.0.9.tgz
@@ -73,7 +73,7 @@ services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-property-information-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.14.tgz
-services-ansible-automation-hub:ui/npmjs-react-3.11.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-3.12.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.152.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.157.3.tgz

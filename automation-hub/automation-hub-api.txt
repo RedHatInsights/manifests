@@ -53,7 +53,7 @@ services-ansible-automation-hub:api/enrich:1.2.6.pypi
 services-ansible-automation-hub:api/et-xmlfile:1.1.0.pypi
 services-ansible-automation-hub:api/flake8:3.9.2.pypi
 services-ansible-automation-hub:api/future:0.18.2.pypi
-services-ansible-automation-hub:api/galaxy-importer:0.4.0.pypi
+services-ansible-automation-hub:api/galaxy-importer:0.4.2.pypi
 services-ansible-automation-hub:api/gunicorn:20.1.0.pypi
 services-ansible-automation-hub:api/idna:3.2.pypi
 services-ansible-automation-hub:api/inflection:0.5.1.pypi

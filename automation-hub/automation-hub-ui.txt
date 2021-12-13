@@ -3,7 +3,7 @@ services-ansible-automation-hub:ui/npmjs-awesome-debounce-promise-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-awesome-imperative-promise-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-awesome-only-resolves-last-promise-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.21.4.tgz
-services-ansible-automation-hub:ui/npmjs-axios-0.22.0.tgz
+services-ansible-automation-hub:ui/npmjs-axios-0.24.0.tgz
 services-ansible-automation-hub:ui/npmjs-bail-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-browser-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-character-entities-2.0.1.tgz
@@ -29,7 +29,7 @@ services-ansible-automation-hub:ui/npmjs-file-saver-2.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-file-selector-0.1.19.tgz
 services-ansible-automation-hub:ui/npmjs-focus-trap-6.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-follow-redirects-1.14.1.tgz
-services-ansible-automation-hub:ui/npmjs-follow-redirects-1.14.4.tgz
+services-ansible-automation-hub:ui/npmjs-follow-redirects-1.14.6.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.2.6.tgz
 services-ansible-automation-hub:ui/npmjs-galaxy-doc-builder-1.0.0-alpha4.tgz
 services-ansible-automation-hub:ui/npmjs-hast-2.3.4.tgz

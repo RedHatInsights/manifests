@@ -50,7 +50,7 @@ services-ansible-automation-hub:ui/npmjs-make-plural-6.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-mdast-3.0.7.tgz
 services-ansible-automation-hub:ui/npmjs-mdast-util-definitions-5.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-mdast-util-from-markdown-1.2.0.tgz
-services-ansible-automation-hub:ui/npmjs-mdast-util-to-hast-11.3.0.tgz
+services-ansible-automation-hub:ui/npmjs-mdast-util-to-hast-12.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-mdast-util-to-string-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-mdurl-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-mdurl-1.0.2.tgz
@@ -103,7 +103,7 @@ services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.32.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-16.13.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-17.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-react-markdown-7.1.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.1.20.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.2.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.1.18.tgz
@@ -119,10 +119,10 @@ services-ansible-automation-hub:ui/npmjs-redux-logger-3.0.6.tgz
 services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-6.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.13.9.tgz
 services-ansible-automation-hub:ui/npmjs-remark-parse-10.0.1.tgz
-services-ansible-automation-hub:ui/npmjs-remark-rehype-9.1.0.tgz
+services-ansible-automation-hub:ui/npmjs-remark-rehype-10.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-resolve-pathname-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-runtime-7.16.7.tgz
-services-ansible-automation-hub:ui/npmjs-sade-1.8.0.tgz
+services-ansible-automation-hub:ui/npmjs-sade-1.8.1.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.16.2.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.19.1.tgz
 services-ansible-automation-hub:ui/npmjs-space-separated-tokens-2.0.1.tgz
@@ -131,7 +131,6 @@ services-ansible-automation-hub:ui/npmjs-tabbable-5.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-tiny-invariant-1.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-tiny-warning-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-tippy.js-5.1.2.tgz
-services-ansible-automation-hub:ui/npmjs-totalist-2.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-trough-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-1.13.0.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-2.3.1.tgz
@@ -149,8 +148,8 @@ services-ansible-automation-hub:ui/npmjs-unist-util-visit-4.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-visit-parents-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-visit-parents-5.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-utils-5.30.0.tgz
-services-ansible-automation-hub:ui/npmjs-uvu-0.5.2.tgz
+services-ansible-automation-hub:ui/npmjs-uvu-0.5.3.tgz
 services-ansible-automation-hub:ui/npmjs-value-equal-1.0.1.tgz
-services-ansible-automation-hub:ui/npmjs-vfile-5.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-vfile-5.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-vfile-message-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-warning-4.0.3.tgz

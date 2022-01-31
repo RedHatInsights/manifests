@@ -134,7 +134,6 @@ services-ansible-automation-hub:ui/npmjs-tippy.js-5.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-trough-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-1.13.0.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-2.3.1.tgz
-services-ansible-automation-hub:ui/npmjs-type-fest-0.20.2.tgz
 services-ansible-automation-hub:ui/npmjs-types-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-unified-10.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-unist-2.0.6.tgz

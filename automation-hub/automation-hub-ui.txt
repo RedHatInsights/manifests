@@ -10,7 +10,7 @@ services-ansible-automation-hub:ui/npmjs-character-entities-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-classnames-2.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-comma-separated-tokens-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-commander-8.1.0.tgz
-services-ansible-automation-hub:ui/npmjs-core-3.13.0.tgz
+services-ansible-automation-hub:ui/npmjs-core-3.13.2.tgz
 services-ansible-automation-hub:ui/npmjs-core-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-js-2.6.12.tgz
 services-ansible-automation-hub:ui/npmjs-csstype-3.0.10.tgz
@@ -21,7 +21,7 @@ services-ansible-automation-hub:ui/npmjs-debug-4.3.2.tgz
 services-ansible-automation-hub:ui/npmjs-decode-named-character-reference-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-deep-diff-0.3.8.tgz
 services-ansible-automation-hub:ui/npmjs-dequal-2.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-detect-browser-5.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-detect-browser-5.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-diff-5.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-extend-3.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-file-saver-2.0.5.tgz
@@ -94,7 +94,7 @@ services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-property-information-6.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-16.14.21.tgz
-services-ansible-automation-hub:ui/npmjs-react-3.13.0.tgz
+services-ansible-automation-hub:ui/npmjs-react-3.13.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.181.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-16.14.0.tgz

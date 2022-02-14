@@ -27,7 +27,7 @@ services-ansible-automation-hub:ui/npmjs-extend-3.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-file-saver-2.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-file-selector-0.1.19.tgz
 services-ansible-automation-hub:ui/npmjs-focus-trap-6.2.2.tgz
-services-ansible-automation-hub:ui/npmjs-follow-redirects-1.14.7.tgz
+services-ansible-automation-hub:ui/npmjs-follow-redirects-1.14.8.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.2.6.tgz
 services-ansible-automation-hub:ui/npmjs-galaxy-doc-builder-1.0.0-alpha4.tgz
 services-ansible-automation-hub:ui/npmjs-hast-2.3.4.tgz

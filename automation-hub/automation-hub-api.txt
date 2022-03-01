@@ -80,7 +80,7 @@ services-ansible-automation-hub:api/prometheus-client:0.11.0.pypi
 services-ansible-automation-hub:api/psycopg2:2.9.2.pypi
 services-ansible-automation-hub:api/pulp-ansible:0.11.1.pypi
 services-ansible-automation-hub:api/pulp-container:2.10.0.pypi
-services-ansible-automation-hub:api/pulpcore:3.17.3.pypi
+services-ansible-automation-hub:api/pulpcore @ git+https://github.com/pulp/pulpcore.git@928f271396f24e3c42efecc5dfd41b3d7f419d1a.pypi
 services-ansible-automation-hub:api/pycares:4.0.0.pypi
 services-ansible-automation-hub:api/pycodestyle:2.7.0.pypi
 services-ansible-automation-hub:api/pycparser:2.20.pypi

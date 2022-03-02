@@ -41,7 +41,7 @@ services-ansible-automation-hub:api/django-lifecycle:0.9.3.pypi
 services-ansible-automation-hub:api/django-picklefield:3.0.1.pypi
 services-ansible-automation-hub:api/django-prometheus:2.1.0.pypi
 services-ansible-automation-hub:api/django-storages[boto3]:1.11.1.pypi
-services-ansible-automation-hub:api/django:3.2.11.pypi
+services-ansible-automation-hub:api/django:3.2.12.pypi
 services-ansible-automation-hub:api/djangorestframework-queryfields:1.0.0.pypi
 services-ansible-automation-hub:api/djangorestframework:3.12.4.pypi
 services-ansible-automation-hub:api/drf-access-policy:1.1.0.pypi
@@ -103,14 +103,15 @@ services-ansible-automation-hub:api/requests:2.26.0.pypi
 services-ansible-automation-hub:api/requirements-parser:0.2.0.pypi
 services-ansible-automation-hub:api/resolvelib:0.5.4.pypi
 services-ansible-automation-hub:api/rich:10.9.0.pypi
-services-ansible-automation-hub:api/ruamel-yaml:0.17.16.pypi
+services-ansible-automation-hub:api/ruamel.yaml.clib:0.2.6.pypi
+services-ansible-automation-hub:api/ruamel.yaml:0.17.21.pypi
 services-ansible-automation-hub:api/s3transfer:0.5.0.pypi
 services-ansible-automation-hub:api/semantic-version:2.8.5.pypi
 services-ansible-automation-hub:api/six:1.16.0.pypi
 services-ansible-automation-hub:api/smmap:5.0.0.pypi
 services-ansible-automation-hub:api/social-auth-app-django:3.4.0.pypi
 services-ansible-automation-hub:api/social-auth-core:3.4.0.pypi
-services-ansible-automation-hub:api/sqlparse:0.4.1.pypi
+services-ansible-automation-hub:api/sqlparse:0.4.2.pypi
 services-ansible-automation-hub:api/tablib[html,ods,xls,xlsx,yaml]:3.0.0.pypi
 services-ansible-automation-hub:api/tenacity:8.0.1.pypi
 services-ansible-automation-hub:api/typing-extensions:3.10.0.2.pypi

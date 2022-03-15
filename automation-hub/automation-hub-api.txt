@@ -79,7 +79,7 @@ services-ansible-automation-hub:api/pbr:5.6.0.pypi
 services-ansible-automation-hub:api/prometheus-client:0.11.0.pypi
 services-ansible-automation-hub:api/psycopg2:2.9.2.pypi
 services-ansible-automation-hub:api/pulp-ansible:0.12.0.pypi
-services-ansible-automation-hub:api/pulp-container:2.10.0.pypi
+services-ansible-automation-hub:api/pulp-container:2.10.2.pypi
 services-ansible-automation-hub:api/pulpcore:3.17.4.pypi
 services-ansible-automation-hub:api/pycares:4.0.0.pypi
 services-ansible-automation-hub:api/pycodestyle:2.7.0.pypi
@@ -103,8 +103,8 @@ services-ansible-automation-hub:api/requests:2.26.0.pypi
 services-ansible-automation-hub:api/requirements-parser:0.2.0.pypi
 services-ansible-automation-hub:api/resolvelib:0.5.4.pypi
 services-ansible-automation-hub:api/rich:10.9.0.pypi
-services-ansible-automation-hub:api/ruamel.yaml.clib:0.2.6.pypi
-services-ansible-automation-hub:api/ruamel.yaml:0.17.21.pypi
+services-ansible-automation-hub:api/ruamel-yaml-clib:0.2.6.pypi
+services-ansible-automation-hub:api/ruamel-yaml:0.17.21.pypi
 services-ansible-automation-hub:api/s3transfer:0.5.0.pypi
 services-ansible-automation-hub:api/semantic-version:2.8.5.pypi
 services-ansible-automation-hub:api/six:1.16.0.pypi

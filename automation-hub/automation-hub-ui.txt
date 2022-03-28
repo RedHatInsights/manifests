@@ -86,7 +86,7 @@ services-ansible-automation-hub:ui/npmjs-ms-2.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-node-14.18.12.tgz
 services-ansible-automation-hub:ui/npmjs-object-assign-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
-services-ansible-automation-hub:ui/npmjs-patternfly-4.179.1.tgz
+services-ansible-automation-hub:ui/npmjs-patternfly-4.183.1.tgz
 services-ansible-automation-hub:ui/npmjs-popper.js-1.16.1.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-15.7.4.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-15.8.1.tgz

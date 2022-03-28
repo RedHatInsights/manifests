@@ -3,7 +3,7 @@ services-ansible-automation-hub:ui/npmjs-awesome-debounce-promise-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-awesome-imperative-promise-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-awesome-only-resolves-last-promise-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.21.4.tgz
-services-ansible-automation-hub:ui/npmjs-axios-0.26.0.tgz
+services-ansible-automation-hub:ui/npmjs-axios-0.26.1.tgz
 services-ansible-automation-hub:ui/npmjs-bail-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-browser-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-character-entities-2.0.1.tgz

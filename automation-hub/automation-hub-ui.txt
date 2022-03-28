@@ -121,7 +121,7 @@ services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.13.9.tgz
 services-ansible-automation-hub:ui/npmjs-remark-parse-10.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-remark-rehype-10.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-resolve-pathname-3.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-runtime-7.16.7.tgz
+services-ansible-automation-hub:ui/npmjs-runtime-7.17.8.tgz
 services-ansible-automation-hub:ui/npmjs-sade-1.8.1.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.16.2.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.19.1.tgz

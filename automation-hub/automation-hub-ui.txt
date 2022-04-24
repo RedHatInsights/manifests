@@ -105,7 +105,8 @@ services-ansible-automation-hub:ui/npmjs-react-icons-4.43.15.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.53.16.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-16.13.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-is-17.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-is-18.0.0.tgz
+services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.1.23.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-7.2.8.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.1.18.tgz
@@ -144,7 +145,7 @@ services-ansible-automation-hub:ui/npmjs-unist-2.0.6.tgz
 services-ansible-automation-hub:ui/npmjs-unist-builder-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-generated-2.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-is-5.1.1.tgz
-services-ansible-automation-hub:ui/npmjs-unist-util-position-4.0.2.tgz
+services-ansible-automation-hub:ui/npmjs-unist-util-position-4.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-stringify-position-3.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-visit-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-unist-util-visit-4.1.0.tgz

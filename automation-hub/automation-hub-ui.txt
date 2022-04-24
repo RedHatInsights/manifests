@@ -79,7 +79,7 @@ services-ansible-automation-hub:ui/npmjs-micromark-util-types-1.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-minimal-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-mkdirp-1.0.4.tgz
-services-ansible-automation-hub:ui/npmjs-moment-2.29.2.tgz
+services-ansible-automation-hub:ui/npmjs-moment-2.29.3.tgz
 services-ansible-automation-hub:ui/npmjs-mri-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-ms-0.7.31.tgz
 services-ansible-automation-hub:ui/npmjs-ms-2.1.2.tgz

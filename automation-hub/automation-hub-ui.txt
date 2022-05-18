@@ -108,8 +108,8 @@ services-ansible-automation-hub:ui/npmjs-react-is-18.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-8.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.1.18.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-5.2.1.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.0.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-5.3.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-hash-link-2.4.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.52.16.tgz
@@ -131,7 +131,7 @@ services-ansible-automation-hub:ui/npmjs-scheduler-0.19.1.tgz
 services-ansible-automation-hub:ui/npmjs-space-separated-tokens-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-style-to-object-0.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-tabbable-5.2.1.tgz
-services-ansible-automation-hub:ui/npmjs-tiny-invariant-1.1.0.tgz
+services-ansible-automation-hub:ui/npmjs-tiny-invariant-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-tiny-warning-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-tippy.js-5.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-trough-2.1.0.tgz

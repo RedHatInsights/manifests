@@ -13,7 +13,7 @@ services-ansible-automation-hub:ui/npmjs-commander-8.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-3.13.3.tgz
 services-ansible-automation-hub:ui/npmjs-core-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-js-2.6.12.tgz
-services-ansible-automation-hub:ui/npmjs-csstype-3.0.11.tgz
+services-ansible-automation-hub:ui/npmjs-csstype-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-debounce-promise-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-debounce-promise-3.1.4.tgz
 services-ansible-automation-hub:ui/npmjs-debug-4.1.7.tgz

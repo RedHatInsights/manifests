@@ -83,7 +83,7 @@ services-ansible-automation-hub:ui/npmjs-moment-2.29.3.tgz
 services-ansible-automation-hub:ui/npmjs-mri-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-ms-0.7.31.tgz
 services-ansible-automation-hub:ui/npmjs-ms-2.1.2.tgz
-services-ansible-automation-hub:ui/npmjs-node-14.18.12.tgz
+services-ansible-automation-hub:ui/npmjs-node-14.18.20.tgz
 services-ansible-automation-hub:ui/npmjs-object-assign-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-patternfly-4.183.1.tgz

@@ -107,8 +107,7 @@ services-ansible-automation-hub:ui/npmjs-react-is-18.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-8.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.1.18.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-5.3.2.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-hash-link-2.4.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.64.1.tgz

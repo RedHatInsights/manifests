@@ -12,6 +12,7 @@ services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz
 services-ansible-automation-hub:ui/npmjs-node-16.11.41.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
+services-ansible-automation-hub:ui/npmjs-patternfly-4.202.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.224.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.75.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.3.3.tgz

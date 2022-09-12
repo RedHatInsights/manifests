@@ -14,7 +14,7 @@ services-ansible-automation-hub:ui/npmjs-history-4.10.1.tgz
 services-ansible-automation-hub:ui/npmjs-isarray-0.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz
-services-ansible-automation-hub:ui/npmjs-node-16.11.47.tgz
+services-ansible-automation-hub:ui/npmjs-node-16.11.58.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-patternfly-4.206.3.tgz
 services-ansible-automation-hub:ui/npmjs-rbac-client-1.0.109.tgz

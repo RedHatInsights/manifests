@@ -4,6 +4,7 @@ services-ansible-automation-hub:ui/npmjs-axios-0.25.0.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.27.2.tgz
 services-ansible-automation-hub:ui/npmjs-combined-stream-1.0.8.tgz
 services-ansible-automation-hub:ui/npmjs-core-3.14.0.tgz
+services-ansible-automation-hub:ui/npmjs-csstype-3.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-debug-4.3.4.tgz
 services-ansible-automation-hub:ui/npmjs-delayed-stream-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-focus-trap-6.9.2.tgz

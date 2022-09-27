@@ -1,6 +1,5 @@
 services-ansible-automation-hub:ui/npmjs-asynckit-0.4.0.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.21.4.tgz
-services-ansible-automation-hub:ui/npmjs-axios-0.25.0.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.27.2.tgz
 services-ansible-automation-hub:ui/npmjs-combined-stream-1.0.8.tgz
 services-ansible-automation-hub:ui/npmjs-core-3.14.0.tgz
@@ -10,7 +9,7 @@ services-ansible-automation-hub:ui/npmjs-delayed-stream-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-focus-trap-6.9.2.tgz
 services-ansible-automation-hub:ui/npmjs-follow-redirects-1.15.1.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.2.24.tgz
+services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.2.25.tgz
 services-ansible-automation-hub:ui/npmjs-history-4.10.1.tgz
 services-ansible-automation-hub:ui/npmjs-isarray-0.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
@@ -32,5 +31,5 @@ services-ansible-automation-hub:ui/npmjs-runtime-7.18.9.tgz
 services-ansible-automation-hub:ui/npmjs-tabbable-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-tiny-invariant-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-tiny-warning-1.0.3.tgz
-services-ansible-automation-hub:ui/npmjs-types-0.0.5.tgz
+services-ansible-automation-hub:ui/npmjs-types-0.0.10.tgz
 services-ansible-automation-hub:ui/npmjs-value-equal-1.0.1.tgz

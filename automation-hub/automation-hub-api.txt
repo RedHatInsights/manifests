@@ -7,7 +7,7 @@ services-ansible-automation-hub:api/aiosignal:1.2.0.pypi
 services-ansible-automation-hub:api/ansible-builder:1.1.0.pypi
 services-ansible-automation-hub:api/ansible-compat:2.2.1.pypi
 services-ansible-automation-hub:api/ansible-core:2.13.4.pypi
-services-ansible-automation-hub:api/ansible-lint:6.2.2.pypi
+services-ansible-automation-hub:api/ansible-lint:6.8.2.pypi
 services-ansible-automation-hub:api/app-common-python:0.2.3.pypi
 services-ansible-automation-hub:api/asgiref:3.5.2.pypi
 services-ansible-automation-hub:api/async-lru:1.0.3.pypi
@@ -16,6 +16,7 @@ services-ansible-automation-hub:api/asyncio-throttle:1.0.2.pypi
 services-ansible-automation-hub:api/attrs:21.4.0.pypi
 services-ansible-automation-hub:api/backoff:2.1.2.pypi
 services-ansible-automation-hub:api/bindep:2.11.0.pypi
+services-ansible-automation-hub:api/black:22.10.0.pypi
 services-ansible-automation-hub:api/bleach-allowlist:1.0.3.pypi
 services-ansible-automation-hub:api/bleach:3.3.1.pypi
 services-ansible-automation-hub:api/boto3:1.24.89.pypi
@@ -50,8 +51,8 @@ services-ansible-automation-hub:api/drf-nested-routers:0.93.4.pypi
 services-ansible-automation-hub:api/drf-spectacular:0.23.1.pypi
 services-ansible-automation-hub:api/dynaconf:3.1.11.pypi
 services-ansible-automation-hub:api/ecdsa:0.18.0.pypi
-services-ansible-automation-hub:api/enrich:1.2.7.pypi
 services-ansible-automation-hub:api/et-xmlfile:1.1.0.pypi
+services-ansible-automation-hub:api/filelock:3.8.0.pypi
 services-ansible-automation-hub:api/flake8:3.9.2.pypi
 services-ansible-automation-hub:api/frozenlist:1.3.1.pypi
 services-ansible-automation-hub:api/future:0.18.2.pypi
@@ -60,10 +61,7 @@ services-ansible-automation-hub:api/gitdb:4.0.9.pypi
 services-ansible-automation-hub:api/gitpython:3.1.28.pypi
 services-ansible-automation-hub:api/gunicorn:20.1.0.pypi
 services-ansible-automation-hub:api/idna:3.4.pypi
-services-ansible-automation-hub:api/importlib-metadata:5.0.0.pypi
-services-ansible-automation-hub:api/importlib-resources:5.10.0.pypi
 services-ansible-automation-hub:api/inflection:0.5.1.pypi
-services-ansible-automation-hub:api/iniconfig:1.1.1.pypi
 services-ansible-automation-hub:api/jinja2:3.1.2.pypi
 services-ansible-automation-hub:api/jmespath:1.0.1.pypi
 services-ansible-automation-hub:api/jsonschema:4.9.1.pypi
@@ -74,6 +72,7 @@ services-ansible-automation-hub:api/markupsafe:2.1.1.pypi
 services-ansible-automation-hub:api/marshmallow:3.18.0.pypi
 services-ansible-automation-hub:api/mccabe:0.6.1.pypi
 services-ansible-automation-hub:api/multidict:6.0.2.pypi
+services-ansible-automation-hub:api/mypy-extensions:0.4.3.pypi
 services-ansible-automation-hub:api/naya:1.1.1.pypi
 services-ansible-automation-hub:api/oauthlib:3.2.1.pypi
 services-ansible-automation-hub:api/odfpy:1.4.1.pypi
@@ -82,15 +81,13 @@ services-ansible-automation-hub:api/packaging:21.3.pypi
 services-ansible-automation-hub:api/parsley:1.3.pypi
 services-ansible-automation-hub:api/pathspec:0.10.1.pypi
 services-ansible-automation-hub:api/pbr:5.10.0.pypi
-services-ansible-automation-hub:api/pkgutil-resolve-name:1.3.10.pypi
-services-ansible-automation-hub:api/pluggy:1.0.0.pypi
+services-ansible-automation-hub:api/platformdirs:2.5.2.pypi
 services-ansible-automation-hub:api/prometheus-client:0.14.1.pypi
 services-ansible-automation-hub:api/protobuf:4.21.7.pypi
 services-ansible-automation-hub:api/psycopg2:2.9.4.pypi
 services-ansible-automation-hub:api/pulp-ansible:0.15.0.pypi
 services-ansible-automation-hub:api/pulp-container:2.14.1.pypi
 services-ansible-automation-hub:api/pulpcore:3.21.0.pypi
-services-ansible-automation-hub:api/py:1.11.0.pypi
 services-ansible-automation-hub:api/pyasn1-modules:0.2.8.pypi
 services-ansible-automation-hub:api/pyasn1:0.4.8.pypi
 services-ansible-automation-hub:api/pycares:4.2.2.pypi
@@ -104,7 +101,6 @@ services-ansible-automation-hub:api/pyjwkest:1.4.2.pypi
 services-ansible-automation-hub:api/pyjwt[crypto]:2.5.0.pypi
 services-ansible-automation-hub:api/pyparsing:3.0.9.pypi
 services-ansible-automation-hub:api/pyrsistent:0.18.1.pypi
-services-ansible-automation-hub:api/pytest:7.1.3.pypi
 services-ansible-automation-hub:api/python-dateutil:2.8.2.pypi
 services-ansible-automation-hub:api/python-gnupg:0.5.0.pypi
 services-ansible-automation-hub:api/python-ldap:3.4.3.pypi
@@ -145,4 +141,3 @@ services-ansible-automation-hub:api/xlrd:2.0.1.pypi
 services-ansible-automation-hub:api/xlwt:1.3.0.pypi
 services-ansible-automation-hub:api/yamllint:1.28.0.pypi
 services-ansible-automation-hub:api/yarl:1.8.1.pypi
-services-ansible-automation-hub:api/zipp:3.9.0.pypi

@@ -101,7 +101,7 @@ services-ansible-automation-hub:ui/npmjs-rbac-client-1.0.109.tgz
 services-ansible-automation-hub:ui/npmjs-react-3.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.250.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.92.6.tgz
-services-ansible-automation-hub:ui/npmjs-react-redux-8.0.4.tgz
+services-ansible-automation-hub:ui/npmjs-react-redux-8.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.91.6.tgz

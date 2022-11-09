@@ -59,6 +59,7 @@ services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-get-stream-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-getos-3.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-getpass-0.1.7.tgz
+services-ansible-automation-hub:ui/npmjs-glob-7.2.3.tgz
 services-ansible-automation-hub:ui/npmjs-global-dirs-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-graceful-fs-4.2.10.tgz
 services-ansible-automation-hub:ui/npmjs-has-flag-4.0.0.tgz
@@ -80,6 +81,8 @@ services-ansible-automation-hub:ui/npmjs-lazy-ass-1.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-listr2-3.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-lodash.once-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-log-update-4.0.0.tgz
+services-ansible-automation-hub:ui/npmjs-mime-db-1.52.0.tgz
+services-ansible-automation-hub:ui/npmjs-mime-types-2.1.35.tgz
 services-ansible-automation-hub:ui/npmjs-mini-create-react-context-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-minimatch-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz

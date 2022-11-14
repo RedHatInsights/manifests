@@ -55,7 +55,7 @@ services-ansible-automation-hub:ui/npmjs-follow-redirects-1.15.1.tgz
 services-ansible-automation-hub:ui/npmjs-forever-agent-0.6.1.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-2.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.3.3.tgz
+services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.3.7.tgz
 services-ansible-automation-hub:ui/npmjs-get-stream-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-getos-3.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-getpass-0.1.7.tgz
@@ -135,7 +135,7 @@ services-ansible-automation-hub:ui/npmjs-tough-cookie-2.5.0.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-2.4.0.tgz
 services-ansible-automation-hub:ui/npmjs-tunnel-agent-0.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-tweetnacl-0.14.5.tgz
-services-ansible-automation-hub:ui/npmjs-types-0.0.10.tgz
+services-ansible-automation-hub:ui/npmjs-types-0.0.15.tgz
 services-ansible-automation-hub:ui/npmjs-untildify-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-value-equal-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-verror-1.10.0.tgz

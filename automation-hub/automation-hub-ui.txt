@@ -111,12 +111,13 @@ services-ansible-automation-hub:ui/npmjs-react-styles-4.91.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-table-4.111.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.93.6.tgz
 services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-6.1.3.tgz
+services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.13.10.tgz
 services-ansible-automation-hub:ui/npmjs-request-2.88.10.tgz
 services-ansible-automation-hub:ui/npmjs-request-progress-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-resolve-pathname-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-rfdc-1.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-rimraf-3.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-runtime-7.19.0.tgz
+services-ansible-automation-hub:ui/npmjs-runtime-7.20.1.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.5.7.tgz
 services-ansible-automation-hub:ui/npmjs-semver-7.3.8.tgz
 services-ansible-automation-hub:ui/npmjs-signal-exit-3.0.7.tgz

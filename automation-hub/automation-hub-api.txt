@@ -85,7 +85,7 @@ services-ansible-automation-hub:api/platformdirs:2.5.2.pypi
 services-ansible-automation-hub:api/prometheus-client:0.14.1.pypi
 services-ansible-automation-hub:api/protobuf:4.21.7.pypi
 services-ansible-automation-hub:api/psycopg2:2.9.4.pypi
-services-ansible-automation-hub:api/pulp-ansible:0.15.0.pypi
+services-ansible-automation-hub:api/pulp-ansible:0.16.0.pypi
 services-ansible-automation-hub:api/pulp-container:2.14.1.pypi
 services-ansible-automation-hub:api/pulpcore:3.21.3.pypi
 services-ansible-automation-hub:api/pyasn1-modules:0.2.8.pypi

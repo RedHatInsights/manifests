@@ -94,7 +94,7 @@ services-ansible-automation-hub:ui/npmjs-node-16.18.8.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-p-map-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
-services-ansible-automation-hub:ui/npmjs-patternfly-4.219.2.tgz
+services-ansible-automation-hub:ui/npmjs-patternfly-4.222.4.tgz
 services-ansible-automation-hub:ui/npmjs-pend-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-performance-now-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-pify-2.3.0.tgz

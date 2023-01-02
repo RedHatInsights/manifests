@@ -90,7 +90,7 @@ services-ansible-automation-hub:ui/npmjs-mime-types-2.1.35.tgz
 services-ansible-automation-hub:ui/npmjs-minimatch-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz
 services-ansible-automation-hub:ui/npmjs-node-14.18.32.tgz
-services-ansible-automation-hub:ui/npmjs-node-16.18.8.tgz
+services-ansible-automation-hub:ui/npmjs-node-16.18.11.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-p-map-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz

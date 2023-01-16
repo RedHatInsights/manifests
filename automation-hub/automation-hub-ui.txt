@@ -81,7 +81,6 @@ services-ansible-automation-hub:ui/npmjs-glob-7.2.3.tgz
 services-ansible-automation-hub:ui/npmjs-global-dirs-3.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-graceful-fs-4.2.10.tgz
 services-ansible-automation-hub:ui/npmjs-has-flag-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-history-4.10.1.tgz
 services-ansible-automation-hub:ui/npmjs-htmlparser2-8.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-http-signature-1.3.6.tgz
 services-ansible-automation-hub:ui/npmjs-hub-5.30.0.tgz
@@ -92,7 +91,6 @@ services-ansible-automation-hub:ui/npmjs-is-installed-globally-0.4.0.tgz
 services-ansible-automation-hub:ui/npmjs-is-path-inside-3.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-is-plain-object-5.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-is-typedarray-1.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-isarray-0.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-isstream-0.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-jsbn-0.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-json-schema-0.4.0.tgz
@@ -112,7 +110,6 @@ services-ansible-automation-hub:ui/npmjs-node-16.18.11.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-p-map-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-parse-srcset-1.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-path-to-regexp-1.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-patternfly-4.222.4.tgz
 services-ansible-automation-hub:ui/npmjs-pend-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-performance-now-2.1.0.tgz
@@ -139,18 +136,17 @@ services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.93.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-8.0.5.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-5.3.4.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-5.3.4.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-6.6.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-dom-6.6.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.92.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-table-4.112.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.94.3.tgz
-services-ansible-automation-hub:ui/npmjs-redux-promise-middleware-6.1.3.tgz
 services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.13.11.tgz
 services-ansible-automation-hub:ui/npmjs-request-2.88.10.tgz
 services-ansible-automation-hub:ui/npmjs-request-progress-3.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-resolve-pathname-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-rfdc-1.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-rimraf-3.0.2.tgz
+services-ansible-automation-hub:ui/npmjs-router-1.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-runtime-7.20.7.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-sanitize-html-2.8.1.tgz
@@ -165,8 +161,6 @@ services-ansible-automation-hub:ui/npmjs-supports-color-7.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-supports-color-8.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-tabbable-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-throttleit-1.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-tiny-invariant-1.3.1.tgz
-services-ansible-automation-hub:ui/npmjs-tiny-warning-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-tippy.js-5.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-tmp-0.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-tough-cookie-2.5.0.tgz
@@ -177,7 +171,6 @@ services-ansible-automation-hub:ui/npmjs-types-0.0.17.tgz
 services-ansible-automation-hub:ui/npmjs-types-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-untildify-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-utils-5.30.0.tgz
-services-ansible-automation-hub:ui/npmjs-value-equal-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-verror-1.10.0.tgz
 services-ansible-automation-hub:ui/npmjs-warning-4.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-wrap-ansi-6.2.0.tgz

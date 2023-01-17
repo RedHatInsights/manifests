@@ -136,8 +136,8 @@ services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.93.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-8.0.5.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-6.6.1.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-6.6.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-6.6.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-dom-6.6.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.92.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-table-4.112.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.94.3.tgz

@@ -139,8 +139,8 @@ services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-icons-4.93.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-markdown-8.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-react-redux-8.0.5.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-6.8.2.tgz
-services-ansible-automation-hub:ui/npmjs-react-router-dom-6.8.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-6.9.0.tgz
+services-ansible-automation-hub:ui/npmjs-react-router-dom-6.9.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-4.92.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-table-4.112.39.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-4.94.6.tgz
@@ -149,7 +149,7 @@ services-ansible-automation-hub:ui/npmjs-request-2.88.10.tgz
 services-ansible-automation-hub:ui/npmjs-request-progress-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-rfdc-1.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-rimraf-3.0.2.tgz
-services-ansible-automation-hub:ui/npmjs-router-1.3.3.tgz
+services-ansible-automation-hub:ui/npmjs-router-1.4.0.tgz
 services-ansible-automation-hub:ui/npmjs-runtime-7.21.0.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-sanitize-html-2.8.1.tgz

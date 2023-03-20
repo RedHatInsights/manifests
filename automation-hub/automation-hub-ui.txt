@@ -108,7 +108,7 @@ services-ansible-automation-hub:ui/npmjs-minimatch-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz
 services-ansible-automation-hub:ui/npmjs-moo-0.5.2.tgz
 services-ansible-automation-hub:ui/npmjs-node-14.18.36.tgz
-services-ansible-automation-hub:ui/npmjs-node-16.18.14.tgz
+services-ansible-automation-hub:ui/npmjs-node-16.18.16.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-p-map-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-parse-srcset-1.0.2.tgz

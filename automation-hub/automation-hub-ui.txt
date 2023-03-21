@@ -38,7 +38,7 @@ services-ansible-automation-hub:ui/npmjs-combined-stream-1.0.8.tgz
 services-ansible-automation-hub:ui/npmjs-commander-2.20.3.tgz
 services-ansible-automation-hub:ui/npmjs-commander-5.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-common-tags-1.8.2.tgz
-services-ansible-automation-hub:ui/npmjs-core-0.2.6.tgz
+services-ansible-automation-hub:ui/npmjs-core-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-core-3.17.2.tgz
 services-ansible-automation-hub:ui/npmjs-core-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-js-2.6.12.tgz
@@ -55,6 +55,7 @@ services-ansible-automation-hub:ui/npmjs-delayed-stream-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-dom-serializer-2.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-domhandler-5.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-domutils-3.0.1.tgz
+services-ansible-automation-hub:ui/npmjs-dynamic-plugin-sdk-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-ecc-jsbn-0.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-end-of-stream-1.4.4.tgz
 services-ansible-automation-hub:ui/npmjs-enquirer-2.3.6.tgz
@@ -72,7 +73,7 @@ services-ansible-automation-hub:ui/npmjs-follow-redirects-1.15.1.tgz
 services-ansible-automation-hub:ui/npmjs-forever-agent-0.6.1.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-2.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-frontend-components-3.9.29.tgz
+services-ansible-automation-hub:ui/npmjs-frontend-components-3.9.32.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.3.11.tgz
 services-ansible-automation-hub:ui/npmjs-get-stream-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-getos-3.2.1.tgz
@@ -99,6 +100,8 @@ services-ansible-automation-hub:ui/npmjs-json-stringify-safe-5.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-jsprim-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-lazy-ass-1.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-listr2-3.14.0.tgz
+services-ansible-automation-hub:ui/npmjs-lodash-4.14.191.tgz
+services-ansible-automation-hub:ui/npmjs-lodash-es-4.17.21.tgz
 services-ansible-automation-hub:ui/npmjs-lodash.once-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-log-update-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-mime-db-1.52.0.tgz
@@ -107,6 +110,7 @@ services-ansible-automation-hub:ui/npmjs-minimal-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-minimatch-3.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-moment-2.29.4.tgz
 services-ansible-automation-hub:ui/npmjs-moo-0.5.2.tgz
+services-ansible-automation-hub:ui/npmjs-nanoclone-0.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-node-14.18.36.tgz
 services-ansible-automation-hub:ui/npmjs-node-16.18.16.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
@@ -121,6 +125,7 @@ services-ansible-automation-hub:ui/npmjs-popper.js-1.16.1.tgz
 services-ansible-automation-hub:ui/npmjs-postcss-8.4.21.tgz
 services-ansible-automation-hub:ui/npmjs-pretty-bytes-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
+services-ansible-automation-hub:ui/npmjs-property-expr-2.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-proxy-from-env-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-proxy-from-env-1.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-psl-1.9.0.tgz
@@ -131,7 +136,7 @@ services-ansible-automation-hub:ui/npmjs-react-17.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-17.0.52.tgz
 services-ansible-automation-hub:ui/npmjs-react-3.17.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.2.0.tgz
-services-ansible-automation-hub:ui/npmjs-react-core-0.2.11.tgz
+services-ansible-automation-hub:ui/npmjs-react-core-0.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-4.276.6.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-17.0.18.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-17.0.2.tgz
@@ -167,6 +172,7 @@ services-ansible-automation-hub:ui/npmjs-tabbable-5.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-throttleit-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-tippy.js-5.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-tmp-0.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-toposort-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-tough-cookie-2.5.0.tgz
 services-ansible-automation-hub:ui/npmjs-tslib-2.4.1.tgz
 services-ansible-automation-hub:ui/npmjs-tunnel-agent-0.6.0.tgz
@@ -180,3 +186,4 @@ services-ansible-automation-hub:ui/npmjs-warning-4.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-wrap-ansi-6.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-xvfb-1.2.4.tgz
 services-ansible-automation-hub:ui/npmjs-yauzl-2.10.0.tgz
+services-ansible-automation-hub:ui/npmjs-yup-0.32.11.tgz

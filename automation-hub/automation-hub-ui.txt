@@ -137,7 +137,7 @@ services-ansible-automation-hub:ui/npmjs-performance-now-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-pify-2.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-popper.js-1.16.1.tgz
 services-ansible-automation-hub:ui/npmjs-postcss-8.4.21.tgz
-services-ansible-automation-hub:ui/npmjs-prettier-2.8.4.tgz
+services-ansible-automation-hub:ui/npmjs-prettier-2.8.7.tgz
 services-ansible-automation-hub:ui/npmjs-pretty-bytes-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-prop-types-extra-1.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-property-expr-2.0.5.tgz

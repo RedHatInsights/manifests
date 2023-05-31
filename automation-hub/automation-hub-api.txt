@@ -85,7 +85,7 @@ services-ansible-automation-hub:api/platformdirs:3.5.0.pypi
 services-ansible-automation-hub:api/prometheus-client:0.16.0.pypi
 services-ansible-automation-hub:api/protobuf:4.22.1.pypi
 services-ansible-automation-hub:api/psycopg2:2.9.5.pypi
-services-ansible-automation-hub:api/pulp-ansible:0.17.1.pypi
+services-ansible-automation-hub:api/pulp-ansible:0.17.2.pypi
 services-ansible-automation-hub:api/pulp-container:2.14.5.pypi
 services-ansible-automation-hub:api/pulp-glue:0.19.1.pypi
 services-ansible-automation-hub:api/pulpcore:3.23.4.pypi
@@ -125,6 +125,7 @@ services-ansible-automation-hub:api/social-auth-core:3.4.0.pypi
 services-ansible-automation-hub:api/sqlparse:0.4.4.pypi
 services-ansible-automation-hub:api/subprocess-tee:0.4.1.pypi
 services-ansible-automation-hub:api/tablib[html,ods,xls,xlsx,yaml]:3.4.0.pypi
+services-ansible-automation-hub:api/tomli:2.0.1.pypi
 services-ansible-automation-hub:api/types-cryptography:3.3.23.2.pypi
 services-ansible-automation-hub:api/types-setuptools:67.7.0.2.pypi
 services-ansible-automation-hub:api/typing-extensions:4.5.0.pypi

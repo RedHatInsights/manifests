@@ -100,6 +100,7 @@ services-ansible-automation-hub:ui/npmjs-is-plain-object-5.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-is-stream-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-is-typedarray-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-isstream-0.1.2.tgz
+services-ansible-automation-hub:ui/npmjs-js-cookie-3.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-jsbn-0.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-json-schema-0.4.0.tgz
 services-ansible-automation-hub:ui/npmjs-json-stringify-safe-5.0.1.tgz

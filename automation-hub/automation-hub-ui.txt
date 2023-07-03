@@ -39,7 +39,7 @@ services-ansible-automation-hub:ui/npmjs-commander-2.20.3.tgz
 services-ansible-automation-hub:ui/npmjs-commander-5.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-common-tags-1.8.2.tgz
 services-ansible-automation-hub:ui/npmjs-core-0.5.1.tgz
-services-ansible-automation-hub:ui/npmjs-core-4.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-core-4.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-5.30.0.tgz
 services-ansible-automation-hub:ui/npmjs-core-js-2.6.12.tgz
 services-ansible-automation-hub:ui/npmjs-core-util-is-1.0.2.tgz
@@ -112,7 +112,7 @@ services-ansible-automation-hub:ui/npmjs-lodash-4.14.192.tgz
 services-ansible-automation-hub:ui/npmjs-lodash-es-4.17.21.tgz
 services-ansible-automation-hub:ui/npmjs-lodash.once-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-log-update-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-message-utils-4.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-message-utils-4.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-mime-db-1.52.0.tgz
 services-ansible-automation-hub:ui/npmjs-mime-types-2.1.35.tgz
 services-ansible-automation-hub:ui/npmjs-minimal-5.30.0.tgz
@@ -153,7 +153,7 @@ services-ansible-automation-hub:ui/npmjs-qs-6.10.4.tgz
 services-ansible-automation-hub:ui/npmjs-rbac-client-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-17.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-17.0.52.tgz
-services-ansible-automation-hub:ui/npmjs-react-4.2.1.tgz
+services-ansible-automation-hub:ui/npmjs-react-4.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-code-editor-4.82.115.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-0.5.1.tgz

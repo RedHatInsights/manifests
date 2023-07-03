@@ -181,7 +181,7 @@ services-ansible-automation-hub:ui/npmjs-runtime-7.22.5.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-sanitize-html-2.10.0.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.20.2.tgz
-services-ansible-automation-hub:ui/npmjs-semver-7.3.8.tgz
+services-ansible-automation-hub:ui/npmjs-semver-7.5.3.tgz
 services-ansible-automation-hub:ui/npmjs-signal-exit-3.0.7.tgz
 services-ansible-automation-hub:ui/npmjs-sinonjs__fake-timers-8.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-sizzle-2.3.3.tgz

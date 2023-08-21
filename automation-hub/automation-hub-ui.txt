@@ -76,7 +76,7 @@ services-ansible-automation-hub:ui/npmjs-form-data-2.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-3.11.2.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-3.3.13.tgz
-services-ansible-automation-hub:ui/npmjs-get-intrinsic-1.1.3.tgz
+services-ansible-automation-hub:ui/npmjs-get-intrinsic-1.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-get-stream-5.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-getos-3.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-getpass-0.1.7.tgz
@@ -84,6 +84,7 @@ services-ansible-automation-hub:ui/npmjs-glob-7.2.3.tgz
 services-ansible-automation-hub:ui/npmjs-global-dirs-3.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-graceful-fs-4.2.10.tgz
 services-ansible-automation-hub:ui/npmjs-has-flag-4.0.0.tgz
+services-ansible-automation-hub:ui/npmjs-has-proto-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-has-symbols-1.0.3.tgz
 services-ansible-automation-hub:ui/npmjs-hoist-non-react-statics-3.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-hoist-non-react-statics-3.3.2.tgz
@@ -128,9 +129,9 @@ services-ansible-automation-hub:ui/npmjs-moo-0.5.2.tgz
 services-ansible-automation-hub:ui/npmjs-nanoclone-0.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-nanoid-3.3.6.tgz
 services-ansible-automation-hub:ui/npmjs-node-14.18.40.tgz
-services-ansible-automation-hub:ui/npmjs-node-16.18.40.tgz
+services-ansible-automation-hub:ui/npmjs-node-16.18.41.tgz
 services-ansible-automation-hub:ui/npmjs-npm-run-path-4.0.1.tgz
-services-ansible-automation-hub:ui/npmjs-object-inspect-1.12.2.tgz
+services-ansible-automation-hub:ui/npmjs-object-inspect-1.12.3.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-p-map-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-parse-srcset-1.0.2.tgz

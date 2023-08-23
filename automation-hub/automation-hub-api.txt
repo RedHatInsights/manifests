@@ -51,7 +51,7 @@ services-ansible-automation-hub:api/filelock:3.12.2.pypi
 services-ansible-automation-hub:api/flake8:6.1.0.pypi
 services-ansible-automation-hub:api/frozenlist:1.4.0.pypi
 services-ansible-automation-hub:api/future:0.18.3.pypi
-services-ansible-automation-hub:api/galaxy-importer:0.4.12.pypi
+services-ansible-automation-hub:api/galaxy-importer:0.4.13.pypi
 services-ansible-automation-hub:api/gitdb:4.0.10.pypi
 services-ansible-automation-hub:api/gitpython:3.1.32.pypi
 services-ansible-automation-hub:api/googleapis-common-protos:1.60.0.pypi

@@ -14,7 +14,7 @@ services-ansible-automation-hub:ui/npmjs-awesome-only-resolves-last-promise-1.0.
 services-ansible-automation-hub:ui/npmjs-aws-sign2-0.7.0.tgz
 services-ansible-automation-hub:ui/npmjs-aws4-1.12.0.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.27.2.tgz
-services-ansible-automation-hub:ui/npmjs-axios-1.4.0.tgz
+services-ansible-automation-hub:ui/npmjs-axios-1.5.0.tgz
 services-ansible-automation-hub:ui/npmjs-bcrypt-pbkdf-1.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-blob-util-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-bluebird-3.7.2.tgz
@@ -160,7 +160,7 @@ services-ansible-automation-hub:ui/npmjs-react-4.5.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-code-editor-4.82.115.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-0.5.1.tgz
-services-ansible-automation-hub:ui/npmjs-react-core-4.276.12.tgz
+services-ansible-automation-hub:ui/npmjs-react-core-4.277.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-17.0.18.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-17.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-dropzone-9.0.0.tgz

@@ -128,7 +128,7 @@ services-ansible-automation-hub:ui/npmjs-monaco-yaml-4.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-moo-0.5.2.tgz
 services-ansible-automation-hub:ui/npmjs-nanoclone-0.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-nanoid-3.3.6.tgz
-services-ansible-automation-hub:ui/npmjs-node-16.18.41.tgz
+services-ansible-automation-hub:ui/npmjs-node-16.18.61.tgz
 services-ansible-automation-hub:ui/npmjs-npm-run-path-4.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-object-inspect-1.12.3.tgz
 services-ansible-automation-hub:ui/npmjs-ospath-1.2.2.tgz

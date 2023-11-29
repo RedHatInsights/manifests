@@ -111,6 +111,7 @@ services-ansible-automation-hub:ui/npmjs-jsprim-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-lazy-ass-1.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-listr2-3.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-lodash-4.14.192.tgz
+services-ansible-automation-hub:ui/npmjs-lodash-4.17.21.tgz
 services-ansible-automation-hub:ui/npmjs-lodash-es-4.17.21.tgz
 services-ansible-automation-hub:ui/npmjs-lodash.once-4.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-log-update-4.0.0.tgz

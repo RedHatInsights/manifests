@@ -128,7 +128,7 @@ services-ansible-automation-hub:ui/npmjs-monaco-worker-manager-2.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-monaco-yaml-4.0.4.tgz
 services-ansible-automation-hub:ui/npmjs-moo-0.5.2.tgz
 services-ansible-automation-hub:ui/npmjs-nanoclone-0.2.1.tgz
-services-ansible-automation-hub:ui/npmjs-nanoid-3.3.6.tgz
+services-ansible-automation-hub:ui/npmjs-nanoid-3.3.7.tgz
 services-ansible-automation-hub:ui/npmjs-node-16.18.65.tgz
 services-ansible-automation-hub:ui/npmjs-node-18.18.13.tgz
 services-ansible-automation-hub:ui/npmjs-npm-run-path-4.0.1.tgz
@@ -143,7 +143,7 @@ services-ansible-automation-hub:ui/npmjs-pend-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-performance-now-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-pify-2.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-popper.js-1.16.1.tgz
-services-ansible-automation-hub:ui/npmjs-postcss-8.4.31.tgz
+services-ansible-automation-hub:ui/npmjs-postcss-8.4.32.tgz
 services-ansible-automation-hub:ui/npmjs-prettier-2.8.8.tgz
 services-ansible-automation-hub:ui/npmjs-pretty-bytes-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-process-0.11.10.tgz

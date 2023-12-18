@@ -51,7 +51,7 @@ services-ansible-automation-hub:api/filelock:3.13.1.pypi
 services-ansible-automation-hub:api/flake8:6.1.0.pypi
 services-ansible-automation-hub:api/frozenlist:1.4.0.pypi
 services-ansible-automation-hub:api/future:0.18.3.pypi
-services-ansible-automation-hub:api/galaxy-importer:0.4.16.pypi
+services-ansible-automation-hub:api/galaxy-importer:0.4.18.pypi
 services-ansible-automation-hub:api/gitdb:4.0.11.pypi
 services-ansible-automation-hub:api/gitpython:3.1.40.pypi
 services-ansible-automation-hub:api/googleapis-common-protos:1.61.0.pypi
@@ -141,7 +141,6 @@ services-ansible-automation-hub:api/social-auth-core:4.5.0.pypi
 services-ansible-automation-hub:api/sqlparse:0.4.4.pypi
 services-ansible-automation-hub:api/subprocess-tee:0.4.1.pypi
 services-ansible-automation-hub:api/tablib[html,ods,xls,xlsx,yaml]:3.5.0.pypi
-services-ansible-automation-hub:api/tomli:2.0.1.pypi
 services-ansible-automation-hub:api/types-setuptools:68.2.0.0.pypi
 services-ansible-automation-hub:api/typing-extensions:4.8.0.pypi
 services-ansible-automation-hub:api/uritemplate:4.1.1.pypi

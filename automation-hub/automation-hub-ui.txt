@@ -184,7 +184,7 @@ services-ansible-automation-hub:ui/npmjs-requires-port-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-rfdc-1.3.0.tgz
 services-ansible-automation-hub:ui/npmjs-rimraf-3.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-router-1.14.1.tgz
-services-ansible-automation-hub:ui/npmjs-runtime-7.23.6.tgz
+services-ansible-automation-hub:ui/npmjs-runtime-7.23.7.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.8.0.tgz
 services-ansible-automation-hub:ui/npmjs-sanitize-html-2.10.0.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.20.2.tgz

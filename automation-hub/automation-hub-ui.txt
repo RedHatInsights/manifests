@@ -14,7 +14,7 @@ services-ansible-automation-hub:ui/npmjs-awesome-only-resolves-last-promise-1.0.
 services-ansible-automation-hub:ui/npmjs-aws-sign2-0.7.0.tgz
 services-ansible-automation-hub:ui/npmjs-aws4-1.12.0.tgz
 services-ansible-automation-hub:ui/npmjs-axios-0.27.2.tgz
-services-ansible-automation-hub:ui/npmjs-axios-1.6.5.tgz
+services-ansible-automation-hub:ui/npmjs-axios-1.6.6.tgz
 services-ansible-automation-hub:ui/npmjs-bcrypt-pbkdf-1.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-blob-util-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-bluebird-3.7.2.tgz

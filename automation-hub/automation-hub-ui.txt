@@ -1,7 +1,7 @@
 services-ansible-automation-hub:ui/npmjs-aggregate-error-3.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-ansi-colors-4.1.3.tgz
 services-ansible-automation-hub:ui/npmjs-ansi-styles-4.3.0.tgz
-services-ansible-automation-hub:ui/npmjs-antsibull-docs-1.0.0.tgz
+services-ansible-automation-hub:ui/npmjs-antsibull-docs-1.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-arch-2.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-asn1-0.2.6.tgz
 services-ansible-automation-hub:ui/npmjs-assert-plus-1.0.0.tgz

@@ -232,7 +232,7 @@ services-ansible-automation-hub:ui/npmjs-patternfly-5.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-pend-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-performance-now-2.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-pify-2.3.0.tgz
-services-ansible-automation-hub:ui/npmjs-postcss-8.4.36.tgz
+services-ansible-automation-hub:ui/npmjs-postcss-8.4.38.tgz
 services-ansible-automation-hub:ui/npmjs-prettier-2.8.8.tgz
 services-ansible-automation-hub:ui/npmjs-pretty-bytes-5.6.0.tgz
 services-ansible-automation-hub:ui/npmjs-process-0.11.10.tgz
@@ -277,7 +277,7 @@ services-ansible-automation-hub:ui/npmjs-request-progress-3.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-requires-port-1.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-rfdc-1.3.1.tgz
 services-ansible-automation-hub:ui/npmjs-router-1.15.3.tgz
-services-ansible-automation-hub:ui/npmjs-runtime-7.24.0.tgz
+services-ansible-automation-hub:ui/npmjs-runtime-7.24.1.tgz
 services-ansible-automation-hub:ui/npmjs-rxjs-7.8.1.tgz
 services-ansible-automation-hub:ui/npmjs-sanitize-html-2.12.1.tgz
 services-ansible-automation-hub:ui/npmjs-scheduler-0.23.0.tgz
@@ -288,7 +288,7 @@ services-ansible-automation-hub:ui/npmjs-signal-exit-3.0.7.tgz
 services-ansible-automation-hub:ui/npmjs-sinonjs__fake-timers-8.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-sizzle-2.3.8.tgz
 services-ansible-automation-hub:ui/npmjs-slice-ansi-3.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-source-map-js-1.1.0.tgz
+services-ansible-automation-hub:ui/npmjs-source-map-js-1.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-space-separated-tokens-2.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-sshpk-1.18.0.tgz
 services-ansible-automation-hub:ui/npmjs-state-local-1.0.7.tgz

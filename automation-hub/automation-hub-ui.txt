@@ -106,7 +106,7 @@ services-ansible-automation-hub:ui/npmjs-getos-3.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-getpass-0.1.7.tgz
 services-ansible-automation-hub:ui/npmjs-global-dirs-3.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-gopd-1.0.1.tgz
-services-ansible-automation-hub:ui/npmjs-graceful-fs-4.2.10.tgz
+services-ansible-automation-hub:ui/npmjs-graceful-fs-4.2.11.tgz
 services-ansible-automation-hub:ui/npmjs-has-flag-4.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-has-property-descriptors-1.0.2.tgz
 services-ansible-automation-hub:ui/npmjs-has-proto-1.0.3.tgz

@@ -253,7 +253,7 @@ services-ansible-automation-hub:ui/npmjs-react-code-editor-5.2.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-component-groups-5.0.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-content-loader-6.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-react-core-0.7.1.tgz
-services-ansible-automation-hub:ui/npmjs-react-core-5.2.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-core-5.2.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-display-name-0.2.5.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-18.2.0.tgz
 services-ansible-automation-hub:ui/npmjs-react-dom-18.2.19.tgz
@@ -267,7 +267,7 @@ services-ansible-automation-hub:ui/npmjs-react-redux-8.1.2.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-6.22.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-router-dom-6.22.3.tgz
 services-ansible-automation-hub:ui/npmjs-react-styles-5.2.1.tgz
-services-ansible-automation-hub:ui/npmjs-react-table-5.2.2.tgz
+services-ansible-automation-hub:ui/npmjs-react-table-5.2.4.tgz
 services-ansible-automation-hub:ui/npmjs-react-tokens-5.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-regenerator-runtime-0.14.0.tgz
 services-ansible-automation-hub:ui/npmjs-remark-parse-11.0.0.tgz

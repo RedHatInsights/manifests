@@ -144,7 +144,7 @@ services-ansible-automation-hub:ui/npmjs-js-cookie-3.0.5.tgz
 services-ansible-automation-hub:ui/npmjs-js-sha256-0.10.1.tgz
 services-ansible-automation-hub:ui/npmjs-jsbn-0.1.1.tgz
 services-ansible-automation-hub:ui/npmjs-json-schema-0.4.0.tgz
-services-ansible-automation-hub:ui/npmjs-json-schema-7.0.12.tgz
+services-ansible-automation-hub:ui/npmjs-json-schema-7.0.15.tgz
 services-ansible-automation-hub:ui/npmjs-json-stringify-safe-5.0.1.tgz
 services-ansible-automation-hub:ui/npmjs-jsonc-parser-3.2.1.tgz
 services-ansible-automation-hub:ui/npmjs-jsprim-2.0.2.tgz

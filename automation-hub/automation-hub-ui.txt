@@ -96,7 +96,7 @@ services-ansible-automation-hub:ui/npmjs-follow-redirects-1.15.6.tgz
 services-ansible-automation-hub:ui/npmjs-forever-agent-0.6.1.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-2.3.3.tgz
 services-ansible-automation-hub:ui/npmjs-form-data-4.0.0.tgz
-services-ansible-automation-hub:ui/npmjs-frontend-components-4.2.5.tgz
+services-ansible-automation-hub:ui/npmjs-frontend-components-4.2.7.tgz
 services-ansible-automation-hub:ui/npmjs-frontend-components-utilities-4.0.7.tgz
 services-ansible-automation-hub:ui/npmjs-fs-extra-9.1.0.tgz
 services-ansible-automation-hub:ui/npmjs-function-bind-1.1.2.tgz

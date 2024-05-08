@@ -108,7 +108,7 @@ services-ansible-automation-hub:api/prometheus-client:0.20.0.pypi
 services-ansible-automation-hub:api/protobuf:4.25.3.pypi
 services-ansible-automation-hub:api/psycopg-binary:3.1.18.pypi
 services-ansible-automation-hub:api/psycopg[binary]:3.1.18.pypi
-services-ansible-automation-hub:api/pulp-ansible:0.21.3.pypi
+services-ansible-automation-hub:api/pulp-ansible:0.21.4.pypi
 services-ansible-automation-hub:api/pulp-container:2.19.2.pypi
 services-ansible-automation-hub:api/pulp-glue:0.23.2.pypi
 services-ansible-automation-hub:api/pulpcore:3.49.7.pypi

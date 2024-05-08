@@ -31,7 +31,7 @@ services-ansible-automation-hub:api/defusedxml:0.8.0rc2.pypi
 services-ansible-automation-hub:api/deprecated:1.2.14.pypi
 services-ansible-automation-hub:api/diff-match-patch:20230430.pypi
 services-ansible-automation-hub:api/distro:1.9.0.pypi
-services-ansible-automation-hub:api/django-ansible-base[jwt-consumer] @ git+https://github.com/ansible/django-ansible-base@devel.pypi
+services-ansible-automation-hub:api/django-ansible-base[jwt_consumer] @ git+https://github.com/ansible/django-ansible-base@devel.pypi
 services-ansible-automation-hub:api/django-auth-ldap:4.0.0.pypi
 services-ansible-automation-hub:api/django-crum:0.7.9.pypi
 services-ansible-automation-hub:api/django-filter:23.5.pypi
@@ -111,7 +111,7 @@ services-ansible-automation-hub:api/psycopg[binary]:3.1.18.pypi
 services-ansible-automation-hub:api/pulp-ansible:0.21.3.pypi
 services-ansible-automation-hub:api/pulp-container:2.19.2.pypi
 services-ansible-automation-hub:api/pulp-glue:0.23.2.pypi
-services-ansible-automation-hub:api/pulpcore:3.49.1.pypi
+services-ansible-automation-hub:api/pulpcore:3.49.7.pypi
 services-ansible-automation-hub:api/pyasn1-modules:0.3.0.pypi
 services-ansible-automation-hub:api/pyasn1:0.5.1.pypi
 services-ansible-automation-hub:api/pycares:4.4.0.pypi
